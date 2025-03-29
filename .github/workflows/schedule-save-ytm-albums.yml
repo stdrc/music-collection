@@ -1,0 +1,32 @@
+name: Schedule Save YTM Albums
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *" # 每天 00:00 UTC 触发
+
+jobs:
+  save-ytm-albums:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run save_ytm_albums.py
+        env:
+          YTM_CLIENT_ID: ${{ secrets.YTM_CLIENT_ID }}
+          YTM_CLIENT_SECRET: ${{ secrets.YTM_CLIENT_SECRET }}
+        run: python save_ytm_albums.py
