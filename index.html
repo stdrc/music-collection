@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RC's Music Collection</title>
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+    }
+
+    h1 {
+      text-align: center;
+      margin: 80px 0 40px;
+      font-size: 2.5em;
+      font-family: 'Dancing Script', cursive;
+    }
+
+    header {
+      padding: 20px 0;
+    }
+
+    footer {
+      text-align: center;
+      margin: 60px 0 20px;
+      /* Increased top margin for more spacing */
+      font-size: 0.9em;
+      color: #555;
+    }
+
+    #albums {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 25px;
+      padding: 0 25px;
+      max-width: 800px;
+      /* Limit the container width */
+      margin: 0 auto;
+      /* Center the container */
+    }
+
+    .album {
+      background-color: #fff;
+      border: 1px solid #ddd;
+      /* Removed border-radius for straight corners */
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+      text-align: center;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .album:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+    }
+
+    .album img {
+      width: 100%;
+      height: auto;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .album-details {
+      padding: 20px;
+    }
+
+    .album-details h2 {
+      font-size: 1.2em;
+      margin: 0;
+      /* Remove default margin */
+      padding-bottom: 5px;
+      /* Reduce spacing below the album name */
+      /* Add consistent spacing */
+    }
+
+    .album-details p {
+      color: #555;
+      margin: 5px 0;
+    }
+
+    .ytm-icon {
+      position: absolute;
+      bottom: 10px;
+      right: 10px;
+    }
+
+    .album {
+      position: relative;
+      /* Ensure the icon is positioned relative to the card */
+    }
+
+    .album-details a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>RC's Music Collection</h1>
+  </header>
+  <div id="albums"></div>
+  <footer>
+    &copy; 2025 Richard Chien. All rights reserved.
+  </footer>
+
+  <script>
+    fetch('./albums.json') // Update path to albums.json
+      .then(response => response.json())
+      .then(data => {
+        const albumsContainer = document.getElementById('albums');
+        data.forEach(album => {
+          const albumDiv = document.createElement('div');
+          albumDiv.className = 'album';
+
+          const img = document.createElement('img');
+          img.src = album.album_thumbnail;
+          img.alt = album.album_name;
+
+          const detailsDiv = document.createElement('div');
+          detailsDiv.className = 'album-details';
+
+          const title = document.createElement('h2');
+          title.textContent = album.album_name;
+
+          const artist = document.createElement('p');
+          artist.textContent = `By ${album.artist_name}`;
+
+          detailsDiv.appendChild(title);
+          const artistAndYear = document.createElement('p');
+          artistAndYear.textContent = `${album.artist_name} • ${album.year}`;
+          detailsDiv.appendChild(artistAndYear);
+
+          albumDiv.appendChild(img);
+          albumDiv.appendChild(detailsDiv);
+
+          albumsContainer.appendChild(albumDiv);
+        });
+      })
+      .catch(error => console.error('Error loading albums:', error));
+  </script>
+</body>
+
+</html>
