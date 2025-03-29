@@ -118,6 +118,10 @@
           const albumDiv = document.createElement('div');
           albumDiv.className = 'album';
 
+          const link = document.createElement('a');
+          link.href = album.url;
+          link.target = '_blank'; // Open in a new tab
+
           const img = document.createElement('img');
           img.src = album.album_thumbnail;
           img.alt = album.album_name;
@@ -128,15 +132,14 @@
           const title = document.createElement('h2');
           title.textContent = album.album_name;
 
-          const artist = document.createElement('p');
-          artist.textContent = `By ${album.artist_name}`;
-
-          detailsDiv.appendChild(title);
           const artistAndYear = document.createElement('p');
           artistAndYear.textContent = `${album.artist_name} • ${album.year}`;
+
+          detailsDiv.appendChild(title);
           detailsDiv.appendChild(artistAndYear);
 
-          albumDiv.appendChild(img);
+          link.appendChild(img);
+          albumDiv.appendChild(link);
           albumDiv.appendChild(detailsDiv);
 
           albumsContainer.appendChild(albumDiv);
