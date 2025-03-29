@@ -1,0 +1,6 @@
+.venv
+venv
+ignored
+.cache
+oauth.json
+.env
