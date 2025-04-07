@@ -1,5 +1,19 @@
 [
     {
+        "album_name": "Tapestry",
+        "album_thumbnail": "https://lh3.googleusercontent.com/6zIjyIVGJkG0N1MwK3Ft1Di5nM4yHqEKOTxtSgjYvbS71iXZ8-DIKfXdNwp6fL9uXDRXlkWLX0F-rGOe=w226-h226-l90-rj",
+        "artist_name": "Carole King",
+        "url": "https://music.youtube.com/browse/MPREb_SNlWMf3nqLG",
+        "year": "1971"
+    },
+    {
+        "album_name": "Guitar Man",
+        "album_thumbnail": "https://lh3.googleusercontent.com/y-M9J3IP-KiOUOBhRue4ouP9fzzobv2-vcHBI7uWpUw7Fg7FJLdRuB8T2hVTpwReVJM_kZrRl8QA2UI=w226-h226-l90-rj",
+        "artist_name": "Bread",
+        "url": "https://music.youtube.com/browse/MPREb_nIjfmYHvcMX",
+        "year": "1972"
+    },
+    {
         "album_name": "Abbey Road",
         "album_thumbnail": "https://lh3.googleusercontent.com/bmG1q9eu3ub2CtYcgArvzpiehqUpZGuLsOa_B0Bxkwxdfsk9r7nRzAQy1P5dTjqerODLxq3LycWGWW5m=w226-h226-l90-rj",
         "artist_name": "The Beatles",
