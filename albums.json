@@ -903,6 +903,13 @@
         "year": "2020"
     },
     {
+        "album_name": "The One and Only",
+        "album_thumbnail": "https://lh3.googleusercontent.com/VIleQJeHd9PCXomGnyHh3P_-afHrXYD4BXN4jH9zZ-0F4wuL20_87xwE-_o64y3rh78i5aY7RdeCTC8X=w226-h226-s-l90-rj",
+        "artist_name": "Leehom Wang",
+        "url": "https://music.youtube.com/browse/MPREb_ETMthWSSGWa",
+        "year": "2001"
+    },
+    {
         "album_name": "不可思議 - Unbelievable",
         "album_thumbnail": "https://lh3.googleusercontent.com/MlSvPCyFbGYUPcGpy5q0PhdObrYvmeQnlDQMtbPlKdbByQRLsgqqAJXhvMSr7cWAXcKFz4eLKC5IiTU=w226-h226-l90-rj",
         "artist_name": "Leehom Wang",
@@ -945,6 +952,13 @@
         "year": "1983"
     },
     {
+        "album_name": "Self Control",
+        "album_thumbnail": "https://lh3.googleusercontent.com/97oA6pOe0ROO08afj2Ci_kjb2z-bQ-V5GDK3FPryIRbVLBoKXHJTBMWUClaU6Vm4KcWPLkO8JisLvymrWg=w226-h226-l90-rj",
+        "artist_name": "Laura Branigan",
+        "url": "https://music.youtube.com/browse/MPREb_DbIDHMGrm1U",
+        "year": "1984"
+    },
+    {
         "album_name": "Gossip In The Grain",
         "album_thumbnail": "https://lh3.googleusercontent.com/RC8FhrccXY8PIICFxRrXQIHTOOW5NJJYEwR-9Sb-kjrzRtghhAkaoZFUEcxSGgOd3ppNo0Kq6h5hpmc=w226-h226-l90-rj",
         "artist_name": "Ray LaMontagne",
@@ -966,11 +980,39 @@
         "year": "2024"
     },
     {
+        "album_name": "Don't Look Any Further (Expanded Edition)",
+        "album_thumbnail": "https://lh3.googleusercontent.com/uQkKZKFkL7oFNPLpX4Lxo-qm5VfWZbpfwCKzhfXGhltQhHC0-SFHH0GTiZkhOCzU_ejjHH_ep4R1rGfI=w226-h226-l90-rj",
+        "artist_name": "Dennis Edwards",
+        "url": "https://music.youtube.com/browse/MPREb_G2bvZdA6t1M",
+        "year": "1984"
+    },
+    {
+        "album_name": "Street Songs (Expanded Edition)",
+        "album_thumbnail": "https://lh3.googleusercontent.com/h9I-1k85uJQHQM6-6orv3Bng0qGaGqNc7w16qOOFT9eHOsRen6Tf0kMCwLRGkq6cVUf1wYRDq0Qlcq-GBQ=w226-h226-l90-rj",
+        "artist_name": "Rick James",
+        "url": "https://music.youtube.com/browse/MPREb_Cw03N3JKMqm",
+        "year": "1981"
+    },
+    {
         "album_name": "Diana",
         "album_thumbnail": "https://lh3.googleusercontent.com/FcX31q6_3BRYGldBlUg6u8K9FYlkmd1pBzWFEXIg55HgOnZ6LX8_gLGdsBzUAF4ZdoyluSkV_Q-ImD2sRA=w226-h226-l90-rj",
         "artist_name": "Diana Ross",
         "url": "https://music.youtube.com/browse/MPREb_vDPFdpmYv9G",
         "year": "1980"
+    },
+    {
+        "album_name": "All This Love",
+        "album_thumbnail": "https://lh3.googleusercontent.com/NHhIcGOqQIqRMoeLCwIOD3k6kiGw88oXWOuyIAqS771eQihsx1Drr08G-RugGspamYRFEKT13vM9zE7e=w226-h226-l90-rj",
+        "artist_name": "DeBarge",
+        "url": "https://music.youtube.com/browse/MPREb_CFrplzMrmHV",
+        "year": "1982"
+    },
+    {
+        "album_name": "Dangerous",
+        "album_thumbnail": "https://lh3.googleusercontent.com/acFvHA1OEoI0HBPPG33zidd9n9aG1OTvo7XQQeFjEeQObGv6R3464BvFijHerp3Sit5UeHvQnx6LMoE=w226-h226-l90-rj",
+        "artist_name": "Michael Jackson",
+        "url": "https://music.youtube.com/browse/MPREb_FYLUmINBQn2",
+        "year": "1991"
     },
     {
         "album_name": "Parade - Music from the Motion Picture Under the Cherry Moon",
@@ -999,6 +1041,13 @@
         "artist_name": "John Lennon",
         "url": "https://music.youtube.com/browse/MPREb_gDaohH1B2Wz",
         "year": "1971"
+    },
+    {
+        "album_name": "Highway to Hell",
+        "album_thumbnail": "https://lh3.googleusercontent.com/PUFomqBydVJyjWf41HjnsoBmEgA2AkCuy3u9x1Xz6jzVjNgpf01SMhUvgz3kgacUQ6rmXnSpc4UVD4tL=w226-h226-l90-rj",
+        "artist_name": "AC/DC",
+        "url": "https://music.youtube.com/browse/MPREb_D5nYt9190Tm",
+        "year": "1979"
     },
     {
         "album_name": "American Pie",
@@ -1034,6 +1083,13 @@
         "artist_name": "Queen",
         "url": "https://music.youtube.com/browse/MPREb_qS4JbK1E3Kr",
         "year": "1975"
+    },
+    {
+        "album_name": "The Definitive Collection (Deluxe Edition)",
+        "album_thumbnail": "https://lh3.googleusercontent.com/qfyjMMGQxsofmfZqu7DIj8p9kF2JWy4eAfUad5YY6i7-CjZbsIludaZaU_rPcv-bAtjh15m-iVgTU9w5MQ=w226-h226-s-l90-rj",
+        "artist_name": "Stevie Wonder",
+        "url": "https://music.youtube.com/browse/MPREb_EUq4Duu1OhE",
+        "year": "2002"
     },
     {
         "album_name": "Happier Than Ever",
@@ -1078,6 +1134,13 @@
         "year": "2018"
     },
     {
+        "album_name": "15",
+        "album_thumbnail": "https://lh3.googleusercontent.com/PY6pcthc6EGqT-fv6xwq_9szVY3YJtBQzJqXQi1GYaisuyaAsD5q9pdbbD7d1gVX6aQiwFFSF9S7agSu=w226-h226-l90-rj",
+        "artist_name": "Khalil Fong",
+        "url": "https://music.youtube.com/browse/MPREb_FJvFwied7BP",
+        "year": "2011"
+    },
+    {
         "album_name": "Pure Heroine",
         "album_thumbnail": "https://lh3.googleusercontent.com/5VJie4A0982gncqSzs56jN8adzdXpe0_YZP61sWdO6ZII-XsMBvGh_ouWKDsk_sN-fJnQBGPN36LBPzq_Q=w226-h226-l90-rj",
         "artist_name": "Lorde",
@@ -1111,6 +1174,13 @@
         "artist_name": "ABBA",
         "url": "https://music.youtube.com/browse/MPREb_teWeMEZeVOQ",
         "year": "1976"
+    },
+    {
+        "album_name": "Seal",
+        "album_thumbnail": "https://lh3.googleusercontent.com/ngDXqWSfiKkDKA7-O3G26nPuddgJNrD95kQBBFCzzV6v32VoGXFPLgHN4Dqb9a8TFKlXQN-nMZo8NGQ=w226-h226-l90-rj",
+        "artist_name": "Seal",
+        "url": "https://music.youtube.com/browse/MPREb_E6rTiYWcrpi",
+        "year": "1994"
     },
     {
         "album_name": "Hotel California",
