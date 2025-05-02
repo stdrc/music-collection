@@ -1,5 +1,12 @@
 [
     {
+        "album_name": "Hollywood's Bleeding",
+        "album_thumbnail": "https://lh3.googleusercontent.com/YoQ-A-GOpgeE8tgdF3Rcf5z9V8NIIKjLH6_7X3QphIQUwVHioLu7Ik2wQzU0oCkyNm1TeLDLDYvomJ8=w226-h226-l90-rj",
+        "artist_name": "Post Malone",
+        "url": "https://music.youtube.com/browse/MPREb_ZgksUYitwiD",
+        "year": "2019"
+    },
+    {
         "album_name": "Melodrama",
         "album_thumbnail": "https://lh3.googleusercontent.com/m2nCAThlsFA_cNd7WrZyDzmxOGtvg2JrEQJ6ercmsdJQNs_bcktsLYV0vyiEL5vVCqS_pcTzkS1Ce23p=w226-h226-l90-rj",
         "artist_name": "Lorde",
@@ -28,6 +35,20 @@
         "year": "1970"
     },
     {
+        "album_name": "Tapestry",
+        "album_thumbnail": "https://lh3.googleusercontent.com/6zIjyIVGJkG0N1MwK3Ft1Di5nM4yHqEKOTxtSgjYvbS71iXZ8-DIKfXdNwp6fL9uXDRXlkWLX0F-rGOe=w226-h226-l90-rj",
+        "artist_name": "Carole King",
+        "url": "https://music.youtube.com/browse/MPREb_SNlWMf3nqLG",
+        "year": "1971"
+    },
+    {
+        "album_name": "Guitar Man",
+        "album_thumbnail": "https://lh3.googleusercontent.com/y-M9J3IP-KiOUOBhRue4ouP9fzzobv2-vcHBI7uWpUw7Fg7FJLdRuB8T2hVTpwReVJM_kZrRl8QA2UI=w226-h226-l90-rj",
+        "artist_name": "Bread",
+        "url": "https://music.youtube.com/browse/MPREb_nIjfmYHvcMX",
+        "year": "1972"
+    },
+    {
         "album_name": "Abbey Road",
         "album_thumbnail": "https://lh3.googleusercontent.com/bmG1q9eu3ub2CtYcgArvzpiehqUpZGuLsOa_B0Bxkwxdfsk9r7nRzAQy1P5dTjqerODLxq3LycWGWW5m=w226-h226-l90-rj",
         "artist_name": "The Beatles",
@@ -47,6 +68,13 @@
         "artist_name": "Elton John",
         "url": "https://music.youtube.com/browse/MPREb_FvHa1KpUKJV",
         "year": "1970"
+    },
+    {
+        "album_name": "YES!",
+        "album_thumbnail": "https://lh3.googleusercontent.com/mPW8PksUbYwG64hn9FfDKAaNa7OfEMQfkset9NDFthwxgJIZU7D7O3d6Ayh6uDqvVOhXfJMGxgASYoU=w226-h226-l90-rj",
+        "artist_name": "Jason Mraz",
+        "url": "https://music.youtube.com/browse/MPREb_g6qH42kZQm8",
+        "year": "2014"
     },
     {
         "album_name": "Messy",
@@ -84,11 +112,32 @@
         "year": "2016"
     },
     {
+        "album_name": "MAYHEM",
+        "album_thumbnail": "https://lh3.googleusercontent.com/RFK4wHeGqwI3DndbARbRJB21IC0TcmqnrlyjxYK7T-nC8wlIVbfxNaCIFKNvSpchDKmYyVLe1RN36w=w226-h226-l90-rj",
+        "artist_name": "Lady Gaga",
+        "url": "https://music.youtube.com/browse/MPREb_fdn3rDTkRH3",
+        "year": "2025"
+    },
+    {
         "album_name": "Song Book 1985-2010",
         "album_thumbnail": "https://lh3.googleusercontent.com/fSE37SlDZZ3kUwpZGE5ZSxO50mjh40yacm_PqXrawb9EoLeKq0w1q8SNPxsZ_-VJEo_-zfr-KYGUd8o5=w226-h226-l90-rj",
         "artist_name": "Simply Red",
         "url": "https://music.youtube.com/browse/MPREb_qUFN4hXMeEQ",
         "year": "2013"
+    },
+    {
+        "album_name": "樂行者",
+        "album_thumbnail": "https://lh3.googleusercontent.com/IRHaN6jfs04eVT8NOifbYfS7laux65rbiG8iHsrjfohQxR2aKE9YFtTKJcABgG-RmoOINSpbIzNbFEo=w226-h226-s-l90-rj",
+        "artist_name": "林俊傑",
+        "url": "https://music.youtube.com/browse/MPREb_iqwG8HyoZ0i",
+        "year": "2003"
+    },
+    {
+        "album_name": "Amphibian",
+        "album_thumbnail": "https://lh3.googleusercontent.com/NaVDVCIiI1or7jiAJstXc44JKSb4v-aKDbZIds2ZHcP7KFOzU0yEVRp8pp5neqS-a7FZhQ9ZRejAqVbg=w226-h226-l90-rj",
+        "artist_name": "Tanya Chua",
+        "url": "https://music.youtube.com/browse/MPREb_Rmhcor2LEvZ",
+        "year": "2006"
     },
     {
         "album_name": "Ram (Archive Collection)",
@@ -98,11 +147,32 @@
         "year": "1971"
     },
     {
+        "album_name": "1",
+        "album_thumbnail": "https://lh3.googleusercontent.com/O0BM0qveWB40423x8L9AdJxuMcBhFg0x_UtCbFQ_pRwbF412bmnlKj420gEPx1wwwAVpyXHpHp35cAU=w226-h226-l90-rj",
+        "artist_name": "The Beatles",
+        "url": "https://music.youtube.com/browse/MPREb_mnYrD806fc4",
+        "year": "2000"
+    },
+    {
         "album_name": "慢靈魂 (Slow Soul)",
         "album_thumbnail": "https://lh3.googleusercontent.com/wGevHq6aGyhLTQRaHlDQzjGqilDBPX6ujVqYDXlHCW3L_I8oKnafkL4kYLrUS5ZhlaoBXxObEJh7KwEB=w226-h226-l90-rj",
         "artist_name": "盧廣仲 (Crowd Lu)",
         "url": "https://music.youtube.com/browse/MPREb_4uDQSggXapb",
         "year": "2011"
+    },
+    {
+        "album_name": "離心力",
+        "album_thumbnail": "https://lh3.googleusercontent.com/fDaBdZ6-yd0BKlC-VR7x_Kxf55N25kSdxZXCdO4nO-bjhxKtCV8PW0YWvyiWnXleUr44f5GahfHboCrT=w226-h226-l90-rj",
+        "artist_name": "楊乃文",
+        "url": "https://music.youtube.com/browse/MPREb_NM72Nj78Nwl",
+        "year": "2016"
+    },
+    {
+        "album_name": "Saturday Night Fever (The Original Movie Soundtrack)",
+        "album_thumbnail": "https://lh3.googleusercontent.com/Xq7Exaw8sR1LI3ZNOc7jRe1bLKIHgSps3mYVHEGanUgDFhlahPllZoW4bXh4u9_q2xKF6BETZg6Sgd4xNw=w226-h226-l90-rj",
+        "artist_name": "Various Artists",
+        "url": "https://music.youtube.com/browse/MPREb_jbIjZ5V3Yki",
+        "year": "1977"
     },
     {
         "album_name": "Picture Book (Expanded Version)",
