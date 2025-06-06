@@ -1,5 +1,103 @@
 [
     {
+        "album_name": "Blonde",
+        "album_thumbnail": "https://lh3.googleusercontent.com/TWBi2M7D8gIwoo3NmhGfoVKI-PuzDunLVYpmLCbeP8Uw2YWpnjttlxmVvpVaO8uSjmLPjHgy6iGXxlPF=w226-h226-l90-rj",
+        "artist_name": "Frank Ocean",
+        "url": "https://music.youtube.com/browse/MPREb_or9GipYFiAw",
+        "year": "2016"
+    },
+    {
+        "album_name": "Controversy",
+        "album_thumbnail": "https://lh3.googleusercontent.com/73fs4e2dZ3rPmCt9tDJguUaz-SvYybUqaASh_-p4Xj33mpqfJEftIQ4czmWq4pBVA9jTjVGspD8ixFXr9w=w226-h226-l90-rj",
+        "artist_name": "Prince",
+        "url": "https://music.youtube.com/browse/MPREb_qXSW226ZDsK",
+        "year": "1981"
+    },
+    {
+        "album_name": "Tower Of Power",
+        "album_thumbnail": "https://lh3.googleusercontent.com/PMjmNy6kmmI2H4LcMRAeVHGewG9ROqjt-buC3jjh5mvqGLOg492P60JW3wCB3UrBrCObvy9TFEjESaJZ=w226-h226-l90-rj",
+        "artist_name": "Tower Of Power",
+        "url": "https://music.youtube.com/browse/MPREb_Vga7OupETCn",
+        "year": "1973"
+    },
+    {
+        "album_name": "Honey",
+        "album_thumbnail": "https://lh3.googleusercontent.com/raxn6gvD9hIA0yfYUbMu0dR9xPkhtU3dn0Sc8xcWYeg2GjHtgAjZTp9qpHtwh1IrjrMSiK3bQ3wKjHUu=w226-h226-s-l90-rj",
+        "artist_name": "Ohio Players",
+        "url": "https://music.youtube.com/browse/MPREb_wpY4RDVHFpj",
+        "year": "1975"
+    },
+    {
+        "album_name": "Spirit",
+        "album_thumbnail": "https://lh3.googleusercontent.com/y2f1FNFJuut20OrcnUVLor9ojd_0gywG6uD_p4_sWQwgPoBOczFWRQ-FcMYLTZRcy87CjR98lo_1OM0=w226-h226-l90-rj",
+        "artist_name": "Earth, Wind & Fire",
+        "url": "https://music.youtube.com/browse/MPREb_Ey2uRBfDWd1",
+        "year": "1976"
+    },
+    {
+        "album_name": "Mothership Connection",
+        "album_thumbnail": "https://lh3.googleusercontent.com/6-cxRi8tfv2cX7TPb5dl1_hoqChmv-ezKjjgUfcqgGeNOpPixMP0ttIuocnbfjROr4Rk8IkREkxXQmRH=w226-h226-l90-rj",
+        "artist_name": "Parliament",
+        "url": "https://music.youtube.com/browse/MPREb_kZhTxqCINhb",
+        "year": "2003"
+    },
+    {
+        "album_name": "羽毛劍",
+        "album_thumbnail": "https://lh3.googleusercontent.com/etJBkuAui-Vc0ycEH8qpksY5-1UZnyDsTMX_TFpzrnFG3xob1mYrnvphF8_qWDJ0Dhi1fe3yI0jxip5j=w226-h226-l90-rj",
+        "artist_name": "秦凡淇",
+        "url": "https://music.youtube.com/browse/MPREb_SvpEKqCA7a7",
+        "year": "2025"
+    },
+    {
+        "album_name": "Wish",
+        "album_thumbnail": "https://lh3.googleusercontent.com/OK0Po1w-qs-125i0MhGl0MrTQP6G8WLM8eQTYCMUhIp4aQb505TT1hnHHbphbRd-rEF6tUo-WZgljpY=w226-h226-s-l90-rj",
+        "artist_name": "The Cure",
+        "url": "https://music.youtube.com/browse/MPREb_TB8DPOJrHFl",
+        "year": "1992"
+    },
+    {
+        "album_name": "Wish You Were Here",
+        "album_thumbnail": "https://lh3.googleusercontent.com/-xCiJRwI232ReBygJxzyLqsQNK8uYIsom8Ke0dfnWdGxpTRJy_sVsZVSSGnNPOsYVgVxTOYkttCzEwGBfA=w226-h226-l90-rj",
+        "artist_name": "Pink Floyd",
+        "url": "https://music.youtube.com/browse/MPREb_pYj3YFxjhPp",
+        "year": "1975"
+    },
+    {
+        "album_name": "50 Years - Don't Stop",
+        "album_thumbnail": "https://lh3.googleusercontent.com/9QeNW7jVAtRi9j5VP0NS351yVxwecrmIePDdP9GWpUtynowMEA9jRaRTp-C74mbD7OQmt3_iNWLlPUI9=w226-h226-l90-rj",
+        "artist_name": "Fleetwood Mac",
+        "url": "https://music.youtube.com/browse/MPREb_LU18ownenrW",
+        "year": "2018"
+    },
+    {
+        "album_name": "The Joshua Tree (Super Deluxe)",
+        "album_thumbnail": "https://lh3.googleusercontent.com/wJlCrdtCtp9vkjWNFurUqhxrppYKGcDcN0ZpwP0CC3z-dhtjw1yMQkFszwe4SZTMiukr7YSvWZ6Sh9Ec=w226-h226-l90-rj",
+        "artist_name": "U2",
+        "url": "https://music.youtube.com/browse/MPREb_Q8UrZ760tV6",
+        "year": "1987"
+    },
+    {
+        "album_name": "Forever Young (Super Deluxe Edition; 2019 Remaster)",
+        "album_thumbnail": "https://lh3.googleusercontent.com/HEzEItN1YX2pm4ubdKidbyuH_dZVovn7Go-MtSvN8-3_lHc59QBTaELNJjDjY-c2fEvrU4048ZI_loqu=w226-h226-s-l90-rj",
+        "artist_name": "Alphaville",
+        "url": "https://music.youtube.com/browse/MPREb_FELTdQwna3o",
+        "year": "1984"
+    },
+    {
+        "album_name": "Be Here Now",
+        "album_thumbnail": "https://lh3.googleusercontent.com/HiNWnQLRJuHmL0tyP0m8bzgMv1LNyV2-zhhU7ewA4rLT25PEbqKyQN3ZvKgV-5Zd7Ds1-EbxbA3IMhzv_g=w226-h226-l90-rj",
+        "artist_name": "Oasis",
+        "url": "https://music.youtube.com/browse/MPREb_2emx3fyDmIj",
+        "year": "1997"
+    },
+    {
+        "album_name": "This Love",
+        "album_thumbnail": "https://lh3.googleusercontent.com/ykkMEfKcJMF5OgUwY6LDLRioQ2LZneODQz5IFat2mOfSOvGNKOPbpFN9SdueQJsLBoD2jH48Aww46rW58Q=w226-h226-s-l90-rj",
+        "artist_name": "Khalil Fong",
+        "url": "https://music.youtube.com/browse/MPREb_XHDA58swYZ3",
+        "year": "2007"
+    },
+    {
         "album_name": "Hollywood's Bleeding",
         "album_thumbnail": "https://lh3.googleusercontent.com/YoQ-A-GOpgeE8tgdF3Rcf5z9V8NIIKjLH6_7X3QphIQUwVHioLu7Ik2wQzU0oCkyNm1TeLDLDYvomJ8=w226-h226-l90-rj",
         "artist_name": "Post Malone",
@@ -912,7 +1010,7 @@
     {
         "album_name": "不可思議 - Unbelievable",
         "album_thumbnail": "https://lh3.googleusercontent.com/MlSvPCyFbGYUPcGpy5q0PhdObrYvmeQnlDQMtbPlKdbByQRLsgqqAJXhvMSr7cWAXcKFz4eLKC5IiTU=w226-h226-l90-rj",
-        "artist_name": "Leehom Wang",
+        "artist_name": "Wang Leehom",
         "url": "https://music.youtube.com/browse/MPREb_h0kNfBEqBAY",
         "year": "2003"
     },
