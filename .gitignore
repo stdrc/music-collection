@@ -4,3 +4,4 @@ ignored
 .cache
 oauth.json
 .env
+__pycache__

@@ -140,10 +140,6 @@
           const albumDiv = document.createElement('div');
           albumDiv.className = 'album';
 
-          const link = document.createElement('a');
-          link.href = album.url;
-          link.target = '_blank'; // Open in a new tab
-
           const img = document.createElement('img');
           img.src = album.album_thumbnail;
           img.alt = album.album_name;
@@ -160,8 +156,17 @@
           detailsDiv.appendChild(title);
           detailsDiv.appendChild(artistAndYear);
 
-          link.appendChild(img);
-          albumDiv.appendChild(link);
+          // Only create a link if the album has a URL
+          if (album.url) {
+            const link = document.createElement('a');
+            link.href = album.url;
+            link.target = '_blank'; // Open in a new tab
+            link.appendChild(img);
+            albumDiv.appendChild(link);
+          } else {
+            albumDiv.appendChild(img);
+          }
+          
           albumDiv.appendChild(detailsDiv);
 
           albumsContainer.appendChild(albumDiv);

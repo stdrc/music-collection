@@ -4,7 +4,8 @@
 source .venv/bin/activate
 
 # Run the Python script to update albums
-python save_ytm_albums.py
+#python save_ytm_albums.py
+python save_am_albums.py
 
 # Check if albums.json has changed
 if git diff --quiet albums.json; then
