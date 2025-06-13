@@ -1,5 +1,110 @@
 [
     {
+        "album_name": "Magical Mystery Tour",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/0e/37/430e3790-75d5-c96a-1380-f9d9803aa700/18UMGIM31245.rgb.jpg/300x300bb.jpg",
+        "artist_name": "The Beatles",
+        "url": "",
+        "year": "1967"
+    },
+    {
+        "album_name": "Broadcast",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/f1/a5/1bf1a599-decb-1437-358c-4b63c8edafec/00077778600251.jpg/300x300bb.jpg",
+        "artist_name": "Cutting Crew",
+        "url": "",
+        "year": "1986"
+    },
+    {
+        "album_name": "Arrival (Bonus Track Version)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/69/4d/b4/694db440-1fdd-0112-16a0-ae501501cb32/14UMGIM07610.rgb.jpg/300x300bb.jpg",
+        "artist_name": "ABBA",
+        "url": "",
+        "year": "1976"
+    },
+    {
+        "album_name": "Seal II",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/34/b5/2f/34b52f15-c64a-6971-78d3-277d08d9779d/dj.bxnijqdz.jpg/300x300bb.jpg",
+        "artist_name": "Seal",
+        "url": "",
+        "year": "1994"
+    },
+    {
+        "album_name": "加州旅馆",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/16/2c/88162c3d-46db-8321-61f3-3a47404cfe76/075596050920.jpg/300x300bb.jpg",
+        "artist_name": "Eagles",
+        "url": "",
+        "year": "1976"
+    },
+    {
+        "album_name": "残酷な天使のテーゼ - EP",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/c7/68/d7/mzi.anmgzqdl.jpg/300x300bb.jpg",
+        "artist_name": "Yoko Takahashi",
+        "url": "",
+        "year": "1995"
+    },
+    {
+        "album_name": "Heartbreak Weather",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/87/ad/e287ad34-3236-86bd-ccff-c50d1675425e/19UM1IM08786.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Niall Horan",
+        "url": "",
+        "year": "2020"
+    },
+    {
+        "album_name": "Wasteland, Baby!",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/05/62/dd/0562ddee-754e-f261-cdbf-a733a9a8f0fd/18UMGIM87114.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Hozier",
+        "url": "",
+        "year": "2018"
+    },
+    {
+        "album_name": "Jake Bugg",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/35/b1/ab/35b1abf8-55ec-da0f-e6c2-58071fba5db8/00602537070572.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Jake Bugg",
+        "url": "",
+        "year": "2012"
+    },
+    {
+        "album_name": "Doo-Wops & Hooligans",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/25/6d/95/256d95ea-c58c-074d-b6f1-18f5cb4e6b96/075679956293.jpg/300x300bb.jpg",
+        "artist_name": "Bruno Mars",
+        "url": "",
+        "year": "2010"
+    },
+    {
+        "album_name": "Starboy",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/92/bb/b592bb72-52e3-e756-9b26-9f56d08f47ab/16UMGIM67864.rgb.jpg/300x300bb.jpg",
+        "artist_name": "The Weeknd",
+        "url": "",
+        "year": "2016"
+    },
+    {
+        "album_name": "我要快乐?",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/91/87/f5/9187f5de-adb7-6213-9f4b-f72566622ea5/mzi.qnbgyfsj.jpg/300x300bb.jpg",
+        "artist_name": "aMEI",
+        "url": "",
+        "year": "2006"
+    },
+    {
+        "album_name": "Back In Black",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/14/58/1e145814-281a-58e0-3ab1-145f5d1af421/886443673441.jpg/300x300bb.jpg",
+        "artist_name": "AC/DC",
+        "url": "",
+        "year": "1980"
+    },
+    {
+        "album_name": "Ok Love You Bye - EP",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/31/ed/42/31ed42f4-663c-5acc-e194-a795a032d993/19UMGIM50845.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Olivia Dean",
+        "url": "",
+        "year": "2019"
+    },
+    {
+        "album_name": "Hunting High & Low (Remastered)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0b/5b/69/0b5b6991-cd46-7222-fca7-680b17318721/603497888191.jpg/300x300bb.jpg",
+        "artist_name": "a-ha",
+        "url": "",
+        "year": "1985"
+    },
+    {
         "album_name": "Love Deluxe",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/c8/d7/18c8d7bc-8491-09e6-df0d-6e0a83ead680/mzi.wsikzifg.jpg/300x300bb.jpg",
         "artist_name": "Sade",
