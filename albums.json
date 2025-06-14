@@ -1,5 +1,19 @@
 [
     {
+        "album_name": "channel ORANGE",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Frank Ocean",
+        "url": "",
+        "year": "2012"
+    },
+    {
+        "album_name": "Blonde",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/300x300bb.jpg",
+        "artist_name": "Frank Ocean",
+        "url": "",
+        "year": "2016"
+    },
+    {
         "album_name": "The Payback",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/43/8c/69/438c690f-fe4a-8a0d-4b46-2c1800f47754/06UMGIM02758.rgb.jpg/300x300bb.jpg",
         "artist_name": "James Brown",
