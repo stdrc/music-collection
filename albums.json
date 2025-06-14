@@ -154,11 +154,39 @@
         "year": "1978"
     },
     {
+        "album_name": "Abandoned Luncheonette",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ff/7d/c1/ff7dc1cd-e089-8796-54b8-9a7a8b723318/mzi.krlkfqzk.jpg/300x300bb.jpg",
+        "artist_name": "Daryl Hall & John Oates",
+        "url": "",
+        "year": "1973"
+    },
+    {
+        "album_name": "Do It for Love",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fc/9d/c5/fc9dc5fd-3682-77d5-f568-5dbbf79fd3ea/4050538668926.jpg/300x300bb.jpg",
+        "artist_name": "Daryl Hall & John Oates",
+        "url": "",
+        "year": "2002"
+    },
+    {
         "album_name": "The Essential Daryl Hall & John Oates",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ab/81/93/ab81930a-2910-ea4e-ea9d-fd9448320673/886443159532.jpg/300x300bb.jpg",
         "artist_name": "Daryl Hall & John Oates",
         "url": "",
-        "year": "1973"
+        "year": "1975"
+    },
+    {
+        "album_name": "Marigold Sky",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/a0/dc/3ca0dcd9-ca9c-dfd8-6d76-970fb0e008c0/4050538668957.jpg/300x300bb.jpg",
+        "artist_name": "Daryl Hall & John Oates",
+        "url": "",
+        "year": "1997"
+    },
+    {
+        "album_name": "VH1 Music First: Behind The Music - The Daryl Hall & John Oates Collection",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/6e/21/8f6e21e2-98d2-6a8e-4391-69dd01d0b955/888880755834.jpg/300x300bb.jpg",
+        "artist_name": "Daryl Hall & John Oates",
+        "url": "",
+        "year": "2002"
     },
     {
         "album_name": "Manna",
