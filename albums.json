@@ -1,5 +1,75 @@
 [
     {
+        "album_name": "Marquee Moon",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/6a/c1/1b6ac100-8d0e-ec9d-4639-88b11ed2cdad/603497886029.jpg/300x300bb.jpg",
+        "artist_name": "Television",
+        "url": "",
+        "year": "1977"
+    },
+    {
+        "album_name": "フジテレビ系ドラマ「リーガル・ハイ」オリジナルサウンドトラック",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/e1/05/16e10529-9b6d-628f-c732-54e649acb16f/4988013109964.jpg/300x300bb.jpg",
+        "artist_name": "Yuki Hayashi",
+        "url": "",
+        "year": "2012"
+    },
+    {
+        "album_name": "Burnin'",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/30/24/ec/3024ec9b-fbf5-f7dd-60c5-5a5b697b4546/06UMGIM41501.rgb.jpg/300x300bb.jpg",
+        "artist_name": "The Wailers",
+        "url": "",
+        "year": "1973"
+    },
+    {
+        "album_name": "HIT ME HARD AND SOFT",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Billie Eilish",
+        "url": "",
+        "year": "2024"
+    },
+    {
+        "album_name": "The Captain and Me (Remastered)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7a/6c/41/7a6c413b-6896-f9e9-8461-cbf9cee62ed6/603497878239.jpg/300x300bb.jpg",
+        "artist_name": "The Doobie Brothers",
+        "url": "",
+        "year": "1973"
+    },
+    {
+        "album_name": "Rumours",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/13/ba/4d13bac3-d3d5-7581-2c74-034219eadf2b/081227970949.jpg/300x300bb.jpg",
+        "artist_name": "Fleetwood Mac",
+        "url": "",
+        "year": "1977"
+    },
+    {
+        "album_name": "Up For The Down Stroke (Expanded Edition)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6c/e3/2d/6ce32ddb-3513-8077-4256-9ba07acdb727/00602577177989.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Parliament",
+        "url": "",
+        "year": "1974"
+    },
+    {
+        "album_name": "The Soulful Sound of Dobie Gray",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ad/fe/33/adfe3387-8a24-f713-cec0-bd7fc894ece2/09UMGIM00035.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Dobie Gray",
+        "url": "",
+        "year": "1973"
+    },
+    {
+        "album_name": "Outlandos D'Amour (Remastered 2003)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/47/de/29/47de29d9-5109-2020-d296-1021a7378574/16UMGIM60880.rgb.jpg/300x300bb.jpg",
+        "artist_name": "The Police",
+        "url": "",
+        "year": "1978"
+    },
+    {
+        "album_name": "梦想家 The Dreamer",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/1b/dc/6a1bdcc8-ff18-3ddc-5e31-2d65267fbaeb/5034644139906.jpg/300x300bb.jpg",
+        "artist_name": "Khalil Fong",
+        "url": "",
+        "year": "2024"
+    },
+    {
         "album_name": "In a Space Outta Sound",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/e5/41/18e541a9-7a4e-e6d3-c8f7-f832c33ba4a3/mzi.heprywic.jpg/300x300bb.jpg",
         "artist_name": "Nightmares On Wax",
