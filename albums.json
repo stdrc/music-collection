@@ -1,5 +1,348 @@
 [
     {
+        "album_name": "In a Space Outta Sound",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/e5/41/18e541a9-7a4e-e6d3-c8f7-f832c33ba4a3/mzi.heprywic.jpg/300x300bb.jpg",
+        "artist_name": "Nightmares On Wax",
+        "url": "",
+        "year": "2006"
+    },
+    {
+        "album_name": "Minute By Minute (Remastered)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7a/dd/74/7add74c3-49dc-1b4b-7555-9adc57c4c0e7/603497878000.jpg/300x300bb.jpg",
+        "artist_name": "The Doobie Brothers",
+        "url": "",
+        "year": "1978"
+    },
+    {
+        "album_name": "Motown Sunset",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/c7/55/25c75575-ff95-e3dc-4d19-5448e748e318/21UMGIM63574.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Various Artists",
+        "url": "",
+        "year": "1980"
+    },
+    {
+        "album_name": "Average White Band",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8d/4e/c5/8d4ec503-d0f3-b782-e03d-123c732c353c/cover.jpg/300x300bb.jpg",
+        "artist_name": "Average White Band",
+        "url": "",
+        "year": "1980"
+    },
+    {
+        "album_name": "What You Won't Do for Love",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/b9/78/90b9782a-0693-bc3f-8b03-cb9a13f47e56/196626257369.jpg/300x300bb.jpg",
+        "artist_name": "Bobby Caldwell",
+        "url": "",
+        "year": "1978"
+    },
+    {
+        "album_name": "Lovers Rock",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/85/d9/05/85d9053a-565b-723d-0823-c0c2a0dbff87/mzi.ifrkjjuc.jpg/300x300bb.jpg",
+        "artist_name": "Sade",
+        "url": "",
+        "year": "2000"
+    },
+    {
+        "album_name": "Back to Front (Deluxe Edition)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/16/e9/24/16e924b8-2433-9567-99e7-617087187a53/0698458815484.jpg/300x300bb.jpg",
+        "artist_name": "Gilbert O'Sullivan",
+        "url": "",
+        "year": "1971"
+    },
+    {
+        "album_name": "In Utero (20th Anniversary Edition)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/20/03/e32003a4-99bc-1c70-40ba-001882f35dba/00602537526840.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Nirvana",
+        "url": "",
+        "year": "1993"
+    },
+    {
+        "album_name": "空中飞人",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/cd/9b/a9cd9b88-f4e3-674c-91fc-275fcfd7adec/704537426004.jpg/300x300bb.jpg",
+        "artist_name": "Leah Dou",
+        "url": "",
+        "year": "2024"
+    },
+    {
+        "album_name": "Hopes and Fears",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/95/5a/d3955ade-d65f-9a8d-ef5a-0f1b48dd1c67/06UMGIM31043.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Keane",
+        "url": "",
+        "year": "2004"
+    },
+    {
+        "album_name": "Emergency",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/b4/6b/86b46b0a-ec86-560c-4f21-09a294fa17ff/00602567825470.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Kool & The Gang",
+        "url": "",
+        "year": "1984"
+    },
+    {
+        "album_name": "Quiet Life (30th Anniversary Edition) [2022 Remaster]",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/89/39/0c/89390c39-3903-240d-fa23-b0da209cad65/5054197312267.jpg/300x300bb.jpg",
+        "artist_name": "Mariya Takeuchi",
+        "url": "",
+        "year": "2008"
+    },
+    {
+        "album_name": "Eye of the Tiger",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/13/3a/9f133a51-6be8-1a1c-ef9d-8ed8cebafdf1/888880750402.jpg/300x300bb.jpg",
+        "artist_name": "Survivor",
+        "url": "",
+        "year": "1982"
+    },
+    {
+        "album_name": "Funk Essentials: The Best of the Bar-Kays",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e2/2d/f3/e22df381-ccc4-92a3-8816-4d55e71f5ba6/00731451482328.rgb.jpg/300x300bb.jpg",
+        "artist_name": "The Bar-Kays",
+        "url": "",
+        "year": "1973"
+    },
+    {
+        "album_name": "My Way",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3f/ff/a3/3fffa34f-4699-a646-c175-c936446fc540/dj.rxuxuefh.jpg/300x300bb.jpg",
+        "artist_name": "USHER",
+        "url": "",
+        "year": "1997"
+    },
+    {
+        "album_name": "Don't Be Cruel",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3e/be/94/3ebe942e-f6dc-a6dd-125e-cbdc46dabfd4/06UMGIM06505.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Bobby Brown",
+        "url": "",
+        "year": "1988"
+    },
+    {
+        "album_name": "泪桥",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/50/bc/47/50bc4768-ebd1-7324-0faf-79897a18a22b/iTunes.jpg/300x300bb.jpg",
+        "artist_name": "Wu Bai & China Blue",
+        "url": "",
+        "year": "2003"
+    },
+    {
+        "album_name": "Chosen",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/08/e0/6708e014-c1be-76b1-c520-a6567bf946a2/886446867755.jpg/300x300bb.jpg",
+        "artist_name": "Måneskin",
+        "url": "",
+        "year": "2017"
+    },
+    {
+        "album_name": "学友.热",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/8b/9a/fe/8b9afee9-4cce-d537-779f-99da79b2f5e5/00044001634123.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Jacky Cheung",
+        "url": "",
+        "year": "2001"
+    },
+    {
+        "album_name": "The Bends",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1b/a9/5c/1ba95cac-b245-d386-63fb-6b857aa9dce8/634904078065.png/300x300bb.jpg",
+        "artist_name": "Radiohead",
+        "url": "",
+        "year": "1995"
+    },
+    {
+        "album_name": "Aretha Now",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/f9/f4/7cf9f44b-f47e-224b-1b40-bcdf1f9bcbbb/603497896653.jpg/300x300bb.jpg",
+        "artist_name": "Aretha Franklin",
+        "url": "",
+        "year": "1968"
+    },
+    {
+        "album_name": "Give Me the Night",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/ef/c2/77efc2f1-1296-4117-94f2-bab1d27db761/mzi.bqejlnju.jpg/300x300bb.jpg",
+        "artist_name": "George Benson",
+        "url": "",
+        "year": "1980"
+    },
+    {
+        "album_name": "I Want You",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/38/6d/de/386dde81-f75b-944a-a8bf-efec51554486/14UMGIM55410.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Marvin Gaye",
+        "url": "",
+        "year": "1976"
+    },
+    {
+        "album_name": "The Stranger",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/37/68/4c/37684c52-dbdf-9bfe-0d87-07492f43dc4c/dj.gmcbwich.jpg/300x300bb.jpg",
+        "artist_name": "Billy Joel",
+        "url": "",
+        "year": "1977"
+    },
+    {
+        "album_name": "软弱 - EP",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/f9/2a/e3f92af7-4685-20c6-2d63-dc3a4ddc7ace/1029236.jpg/300x300bb.jpg",
+        "artist_name": "Schoolgirl byebye",
+        "url": "",
+        "year": "2020"
+    },
+    {
+        "album_name": "唯一",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/48/fd/2f/48fd2fe5-31b2-d979-53a4-9aebf5175bdb/mzi.biqraozb.jpg/300x300bb.jpg",
+        "artist_name": "Wang Leehom",
+        "url": "",
+        "year": "2001"
+    },
+    {
+        "album_name": "Player",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/53/c1/b853c1bc-aa35-1868-181c-6cd24ec9c5b1/00602577245428.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Player",
+        "url": "",
+        "year": "1977"
+    },
+    {
+        "album_name": "SOS",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/300x300bb.jpg",
+        "artist_name": "SZA",
+        "url": "",
+        "year": "2022"
+    },
+    {
+        "album_name": "Madonna",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m09/d19/h20/mzi.ykiinwgl.jpg/300x300bb.jpg",
+        "artist_name": "Madonna",
+        "url": "",
+        "year": "1983"
+    },
+    {
+        "album_name": "Self Control",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/28/ad/3f28ad3c-3dc9-7c5b-32f0-5b33eb647bf7/mzi.bnuysrxb.jpg/300x300bb.jpg",
+        "artist_name": "Laura Branigan",
+        "url": "",
+        "year": "1983"
+    },
+    {
+        "album_name": "Long Way Home",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/81/5f/60815fba-e611-d02a-2486-cb374f25ee46/198588152744.jpg/300x300bb.jpg",
+        "artist_name": "Ray LaMontagne",
+        "url": "",
+        "year": "2024"
+    },
+    {
+        "album_name": "What Happened To The Heart?",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/86/c7/7286c731-029b-d5fa-2a71-d6aea3722eea/24UMGIM18966.rgb.jpg/300x300bb.jpg",
+        "artist_name": "AURORA",
+        "url": "",
+        "year": "2024"
+    },
+    {
+        "album_name": "Don't Look Any Further (Expanded Edition)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/04/72/2d/04722d67-38c1-e58b-2ed6-6b6c0447663f/19UM1IM01753.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Dennis Edwards",
+        "url": "",
+        "year": "1984"
+    },
+    {
+        "album_name": "Diana",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/aa/87/1c/aa871c20-95be-38bd-97e3-ecfeb8ec404b/15UMGIM06551.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Diana Ross",
+        "url": "",
+        "year": "1980"
+    },
+    {
+        "album_name": "All This Love",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/61/2a/cc612a3f-845e-4131-c328-0e4593a967ba/15UMGIM17090.rgb.jpg/300x300bb.jpg",
+        "artist_name": "DeBarge",
+        "url": "",
+        "year": "1982"
+    },
+    {
+        "album_name": "Number Ones",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/c6/c9/67c6c9b0-e879-7e4d-fcda-dc52f758ec43/888880457066.jpg/300x300bb.jpg",
+        "artist_name": "Michael Jackson",
+        "url": "",
+        "year": "1979"
+    },
+    {
+        "album_name": "Slippery When Wet",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/40/16/3e/40163e24-6985-b785-d4ea-cbae07d74812/06UMGIM05422.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Bon Jovi",
+        "url": "",
+        "year": "1986"
+    },
+    {
+        "album_name": "Imagine (The Ultimate Mixes)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/c8/24/58c82410-0d31-e5fc-6a45-e5bd6a6658df/18UMGIM52733.rgb.jpg/300x300bb.jpg",
+        "artist_name": "John Lennon",
+        "url": "",
+        "year": "1971"
+    },
+    {
+        "album_name": "Highway to Hell",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/c8/ef/b9c8ef42-bbc9-64df-11f8-717571f6730f/886443673458.jpg/300x300bb.jpg",
+        "artist_name": "AC/DC",
+        "url": "",
+        "year": "1979"
+    },
+    {
+        "album_name": "American Pie (Expanded Edition)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7a/fd/77/7afd77f5-a928-109c-5da5-c591b8dad4b2/13UABIM59293.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Don Mclean",
+        "url": "",
+        "year": "1971"
+    },
+    {
+        "album_name": "A Night at the Opera",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/79/5e/2a795e51-8e3e-a743-0dd5-0947ad3383f0/14UMGIM39390.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Queen",
+        "url": "",
+        "year": "1975"
+    },
+    {
+        "album_name": "The Definitive Collection",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/29/3a/92/293a9224-329d-3ede-ed4c-caba1c045e97/00602547215086.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Stevie Wonder",
+        "url": "",
+        "year": "2002"
+    },
+    {
+        "album_name": "Happier Than Ever",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/f3/c9/2df3c9fd-e0eb-257c-c035-b04f05a66580/21UMGIM36691.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Billie Eilish",
+        "url": "",
+        "year": "2021"
+    },
+    {
+        "album_name": "The Marshall Mathers LP",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f7/76/f4/f776f482-406b-301a-4145-14617d0b8cf5/00606949062927.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Eminem",
+        "url": "",
+        "year": "2000"
+    },
+    {
+        "album_name": "After the Gold Rush",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/88/9f/0a/889f0afc-ca89-5968-ef83-ab07f7184eb6/093624924753.jpg/300x300bb.jpg",
+        "artist_name": "Neil Young",
+        "url": "",
+        "year": "1970"
+    },
+    {
+        "album_name": "Get Rich or Die Tryin",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/10/a1/9f/10a19f83-a2f3-40c2-858d-b3d612e251bd/06UMGIM31218.rgb.jpg/300x300bb.jpg",
+        "artist_name": "50 Cent",
+        "url": "",
+        "year": "2003"
+    },
+    {
+        "album_name": "乐之路",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/07/64/7c/07647c3b-8864-7d39-1823-dd993e7cd69f/825646871223.jpg/300x300bb.jpg",
+        "artist_name": "David Tao",
+        "url": "",
+        "year": "2003"
+    },
+    {
+        "album_name": "15",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/43/49/3a43495b-6434-f6b5-85a0-8e32d068c1b3/825646723447.jpg/300x300bb.jpg",
+        "artist_name": "Khalil Fong",
+        "url": "",
+        "year": "2011"
+    },
+    {
+        "album_name": "Cloud Nine",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5a/2d/e1/5a2de106-fc53-fa45-d56a-5f876eb6b8db/5099951336257.jpg/300x300bb.jpg",
+        "artist_name": "George Harrison",
+        "url": "",
+        "year": "1987"
+    },
+    {
         "album_name": "channel ORANGE",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/300x300bb.jpg",
         "artist_name": "Frank Ocean",
