@@ -133,6 +133,13 @@
         "year": "1993"
     },
     {
+        "album_name": "空中飞人",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/cd/9b/a9cd9b88-f4e3-674c-91fc-275fcfd7adec/704537426004.jpg/300x300bb.jpg",
+        "artist_name": "Leah Dou",
+        "url": "",
+        "year": "2024"
+    },
+    {
         "album_name": "Hopes and Fears",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/95/5a/d3955ade-d65f-9a8d-ef5a-0f1b48dd1c67/06UMGIM31043.rgb.jpg/300x300bb.jpg",
         "artist_name": "Keane",
@@ -182,11 +189,25 @@
         "year": "1988"
     },
     {
+        "album_name": "泪桥",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/50/bc/47/50bc4768-ebd1-7324-0faf-79897a18a22b/iTunes.jpg/300x300bb.jpg",
+        "artist_name": "Wu Bai & China Blue",
+        "url": "",
+        "year": "2003"
+    },
+    {
         "album_name": "Chosen",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/08/e0/6708e014-c1be-76b1-c520-a6567bf946a2/886446867755.jpg/300x300bb.jpg",
         "artist_name": "Måneskin",
         "url": "",
         "year": "2017"
+    },
+    {
+        "album_name": "学友.热",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/8b/9a/fe/8b9afee9-4cce-d537-779f-99da79b2f5e5/00044001634123.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Jacky Cheung",
+        "url": "",
+        "year": "2001"
     },
     {
         "album_name": "The Bends",
@@ -222,6 +243,20 @@
         "artist_name": "Billy Joel",
         "url": "",
         "year": "1977"
+    },
+    {
+        "album_name": "软弱 - EP",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/f9/2a/e3f92af7-4685-20c6-2d63-dc3a4ddc7ace/1029236.jpg/300x300bb.jpg",
+        "artist_name": "Schoolgirl byebye",
+        "url": "",
+        "year": "2020"
+    },
+    {
+        "album_name": "唯一",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/48/fd/2f/48fd2fe5-31b2-d979-53a4-9aebf5175bdb/mzi.biqraozb.jpg/300x300bb.jpg",
+        "artist_name": "Wang Leehom",
+        "url": "",
+        "year": "2001"
     },
     {
         "album_name": "Player",
@@ -369,6 +404,13 @@
         "artist_name": "David Tao",
         "url": "",
         "year": "2003"
+    },
+    {
+        "album_name": "15",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/43/49/3a43495b-6434-f6b5-85a0-8e32d068c1b3/825646723447.jpg/300x300bb.jpg",
+        "artist_name": "Khalil Fong",
+        "url": "",
+        "year": "2011"
     },
     {
         "album_name": "Cloud Nine",
@@ -623,6 +665,20 @@
         "year": "1979"
     },
     {
+        "album_name": "25",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/62/bc/87/62bc8791-2a12-4b01-8928-d601684a951c/634904074005.png/300x300bb.jpg",
+        "artist_name": "Adele",
+        "url": "",
+        "year": "2015"
+    },
+    {
+        "album_name": "21",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ba/53/61/ba536163-de06-6640-32d2-70d28ff1ae12/634904152062.png/300x300bb.jpg",
+        "artist_name": "Adele",
+        "url": "",
+        "year": "2010"
+    },
+    {
         "album_name": "Coming Home (Deluxe)",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/27/37/70/273770eb-92ac-1d00-87e6-e0f5ec0e97ab/886445452204.jpg/300x300bb.jpg",
         "artist_name": "Leon Bridges",
@@ -686,11 +742,25 @@
         "year": "1971"
     },
     {
+        "album_name": "24K Magic",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/300x300bb.jpg",
+        "artist_name": "Bruno Mars",
+        "url": "",
+        "year": "2016"
+    },
+    {
         "album_name": "Twelve Carat Toothache (Deluxe)",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f8/11/ef/f811ef3b-8ca4-ac16-ba71-1dca7304a8ba/22UMGIM49145.rgb.jpg/300x300bb.jpg",
         "artist_name": "Post Malone",
         "url": "",
         "year": "2022"
+    },
+    {
+        "album_name": "绝对痴心.手放开",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a7/79/8b/a7798b0b-fa15-9a4c-823a-0e92528b6d32/4710149696250_cover.jpg/300x300bb.jpg",
+        "artist_name": "Sam Lee",
+        "url": "",
+        "year": "2004"
     },
     {
         "album_name": "十二楼的莫文蔚",
@@ -721,6 +791,13 @@
         "year": "2021"
     },
     {
+        "album_name": "公转.自转",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/29/e6/98/mzi.pdknwlnm.jpg/300x300bb.jpg",
+        "artist_name": "Wang Leehom",
+        "url": "",
+        "year": "1998"
+    },
+    {
         "album_name": "TROLLS (Original Motion Picture Soundtrack)",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/68/19/43/68194388-efa7-3afe-8a15-a4c3eebef1f6/886445915211.jpg/300x300bb.jpg",
         "artist_name": "Various Artists",
@@ -740,6 +817,13 @@
         "artist_name": "Michael Jackson",
         "url": "",
         "year": "1987"
+    },
+    {
+        "album_name": "署前街少年",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3e/fc/be/3efcbe87-236a-ad35-98c0-b075cd95a1b4/6976364784976.jpg/300x300bb.jpg",
+        "artist_name": "Lei Zhao",
+        "url": "",
+        "year": "2022"
     },
     {
         "album_name": "La La Land (Original Motion Picture Soundtrack)",
@@ -770,6 +854,20 @@
         "year": "2007"
     },
     {
+        "album_name": "我爱南京",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b8/0e/3d/b80e3d10-de05-28ab-b3d3-2e815de0482f/9787880973792.jpg/300x300bb.jpg",
+        "artist_name": "Li Zhi",
+        "url": "",
+        "year": "2009"
+    },
+    {
+        "album_name": "1701",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/93/cf/40/93cf4004-3469-dfc1-6586-aac1ff1dc13a/9787883257196.jpg/300x300bb.jpg",
+        "artist_name": "Li Zhi",
+        "url": "",
+        "year": "2014"
+    },
+    {
         "album_name": "Young Fresh Chin II",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/24/12/41241264-393b-1210-5c61-f70c4743bfa8/cover.jpg/300x300bb.jpg",
         "artist_name": "Zhi yu Xia",
@@ -791,11 +889,53 @@
         "year": "1993"
     },
     {
+        "album_name": "爵士乐与不插电新编12首",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/49/46/66/494666a7-1429-fe2f-f074-da837a48b70d/9787883306955.jpg/300x300bb.jpg",
+        "artist_name": "Li Zhi",
+        "url": "",
+        "year": "2018"
+    },
+    {
+        "album_name": "李志、电声与管弦乐II",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/26/2f/e1/262fe181-f1e0-cb6f-9914-2ab0f0944169/9787883306948.jpg/300x300bb.jpg",
+        "artist_name": "Li Zhi",
+        "url": "",
+        "year": "2018"
+    },
+    {
+        "album_name": "李志、电声与管弦乐",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/07/ec/9a/07ec9a71-3a9b-bf7a-9697-1795b4d0254f/9787883303626.jpg/300x300bb.jpg",
+        "artist_name": "Li Zhi",
+        "url": "",
+        "year": "2017"
+    },
+    {
+        "album_name": "3 Idiots (Original Motion Picture Soundtrack)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/99/7c/6e997cb1-1d80-3dc1-121d-53919ccace52/840214403941.png/300x300bb.jpg",
+        "artist_name": "Shantanu Moitra",
+        "url": "",
+        "year": "2009"
+    },
+    {
         "album_name": "重拾_快乐",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/01/ca/5301cac3-425e-a155-f471-a341937daf32/4711099723225.jpg/300x300bb.jpg",
         "artist_name": "JJ Lin",
         "url": "",
         "year": "2023"
+    },
+    {
+        "album_name": "再见我的爱人",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/cf/66/20cf6686-9197-24e1-b22e-6ee934f4442a/19UMGIM14219.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Teresa Teng",
+        "url": "",
+        "year": "1983"
+    },
+    {
+        "album_name": "我就是愛你",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7d/d7/47/7dd747ae-62b0-c2cb-b6cf-22e08eac090b/LFCD8281_1500x1500.jpg/300x300bb.jpg",
+        "artist_name": "Teresa Teng",
+        "url": "",
+        "year": "1976"
     },
     {
         "album_name": "Your Song (2006 新歌+精选)",
@@ -812,11 +952,25 @@
         "year": "2003"
     },
     {
+        "album_name": "我要给世界最悠长的湿吻",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/57/e0/27/57e027fe-b925-c6b0-2675-71fe035631a3/00602577347214.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Tanya Chua",
+        "url": "",
+        "year": "2018"
+    },
+    {
         "album_name": "我很忙",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/2c/9f/f72c9fc6-c4dc-d6a0-4386-0478b09cb797/23UM1IM58609.rgb.jpg/300x300bb.jpg",
         "artist_name": "Jay Chou",
         "url": "",
         "year": "2007"
+    },
+    {
+        "album_name": "王菲2001",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/a6/ea/24a6eacb-87f6-da80-6ca5-555eb5b3f808/2001.png/300x300bb.jpg",
+        "artist_name": "Faye Wong",
+        "url": "",
+        "year": "2001"
     },
     {
         "album_name": "蛙池 2020-2021",
@@ -847,11 +1001,25 @@
         "year": "1971"
     },
     {
+        "album_name": "1",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/98/fb/f298fb48-1e0e-6ad4-4cff-fb824b77f02e/15UMGIM59587.rgb.jpg/300x300bb.jpg",
+        "artist_name": "The Beatles",
+        "url": "",
+        "year": "1962"
+    },
+    {
         "album_name": "Straight Outta Compton",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4c/b1/32/4cb13290-7d01-1949-57e9-a8a1874e60a2/19UMGIM79184.rgb.jpg/300x300bb.jpg",
         "artist_name": "N.W.A",
         "url": "",
         "year": "1988"
+    },
+    {
+        "album_name": "生命因你而火热",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/9f/74/6e9f74cc-8a97-c6d4-98fd-5b8d840e9975/25UMGIM42320.rgb.jpg/300x300bb.jpg",
+        "artist_name": "New Pants",
+        "url": "",
+        "year": "2016"
     },
     {
         "album_name": "Saturday Night Fever (The Original Movie Soundtrack)",
@@ -896,6 +1064,20 @@
         "year": "1999"
     },
     {
+        "album_name": "你在看我吗",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/07/e0/57/07e05751-acd8-0337-f7ed-92e9a37759d3/13UMGIM85892.rgb.jpg/300x300bb.jpg",
+        "artist_name": "aMEI",
+        "url": "",
+        "year": "2011"
+    },
+    {
+        "album_name": "1989 (Deluxe Edition)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/69/32/41/69324127-ac8b-eca6-c749-a93b34692eb6/00602537993765.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Taylor Swift",
+        "url": "",
+        "year": "2014"
+    },
+    {
         "album_name": "L.O.V.E.",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c9/0b/e0/c90be020-32af-a983-09ed-1f5f1a57f755/00602567962861.rgb.jpg/300x300bb.jpg",
         "artist_name": "Eason Chan & eason and the duo band",
@@ -910,11 +1092,25 @@
         "year": "2004"
     },
     {
+        "album_name": "克卜勒",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/81/dc/36/81dc3656-ae44-4641-7aa4-485e48fae68b/14UMGIM00262.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Yanzi Sun",
+        "url": "",
+        "year": "2014"
+    },
+    {
         "album_name": "不要停止我的音乐",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bc/33/01/bc330184-ba69-b8c0-170f-2482505623d9/193017016185.jpg/300x300bb.jpg",
         "artist_name": "Miserable Faith",
         "url": "",
         "year": "2008"
+    },
+    {
+        "album_name": "今日青年",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/07/e5/6607e59b-9123-5527-9919-ce5af5e94e19/25UMGIM42311.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Miserable Faith",
+        "url": "",
+        "year": "2016"
     },
     {
         "album_name": "I'm O.K.",
@@ -959,6 +1155,13 @@
         "year": "1999"
     },
     {
+        "album_name": "飞行器的执行周期",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/55/95/4b5595a2-5d2c-38c7-8179-0a27e5ba58a1/00602488600859.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Guo Ding",
+        "url": "",
+        "year": "2016"
+    },
+    {
         "album_name": "CiCi",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/f1/f3/9bf1f34e-2cff-e926-2048-61210ea142c4/617513692020.jpg/300x300bb.jpg",
         "artist_name": "Ciara",
@@ -978,6 +1181,13 @@
         "artist_name": "Khalil Fong",
         "url": "",
         "year": "2012"
+    },
+    {
+        "album_name": "不完全自救手册",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/bb/5d/b9bb5d25-c011-f7dc-c0ea-b74a3541ac8d/4894965018561.jpg/300x300bb.jpg",
+        "artist_name": "Various Artists",
+        "url": "",
+        "year": "2024"
     },
     {
         "album_name": "Silky Soul",
@@ -1022,6 +1232,13 @@
         "year": "2013"
     },
     {
+        "album_name": "太平盛世",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fe/ad/e7/feade7c8-826b-0379-fbf4-e59606db8e4c/825646245406.jpg/300x300bb.jpg",
+        "artist_name": "David Tao",
+        "url": "",
+        "year": "2005"
+    },
+    {
         "album_name": "daydream",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/4a/84/464a843d-14cc-e5e2-a9d6-763eb558e104/4547366270358.jpg/300x300bb.jpg",
         "artist_name": "Aimer",
@@ -1055,6 +1272,13 @@
         "artist_name": "Fly By Midnight",
         "url": "",
         "year": "2022"
+    },
+    {
+        "album_name": "万能青年旅店",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/62/43/86/6243868c-c362-74d0-68d5-1de5e89986ee/cover.jpg/300x300bb.jpg",
+        "artist_name": "Omnipotent Youth Society",
+        "url": "",
+        "year": "2010"
     },
     {
         "album_name": "Baby I'm a Want You",
@@ -1113,6 +1337,20 @@
         "year": "1992"
     },
     {
+        "album_name": "真情流露",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/8c/f0/b78cf05d-684c-019e-6f29-e052ec848469/00731451343827.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Jacky Cheung",
+        "url": "",
+        "year": "1992"
+    },
+    {
+        "album_name": "传奇 - 我与你",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/50/d2/5850d2e7-a1c3-1ca6-01c7-6afe8c5cd641/00602498367070.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Jacky Cheung",
+        "url": "",
+        "year": "1993"
+    },
+    {
         "album_name": "Maxwell's Urban Hang Suite",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5e/64/1e/5e641ea6-be24-4cb1-c7d7-289b1082bee8/888880648082.jpg/300x300bb.jpg",
         "artist_name": "Maxwell",
@@ -1120,11 +1358,25 @@
         "year": "1996"
     },
     {
+        "album_name": "黑.白.灰",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/bc/f9/4b/bcf94bb9-64c8-82f5-782c-e8154bb545b6/EEGT3018V1-_._._Eason_-.jpg/300x300bb.jpg",
+        "artist_name": "Eason Chan",
+        "url": "",
+        "year": "2003"
+    },
+    {
         "album_name": "The Return of the Space Cowboy",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/46/fe/5946fea2-8302-3c81-de71-d090376c99da/886443385863.jpg/300x300bb.jpg",
         "artist_name": "Jamiroquai",
         "url": "",
         "year": "1994"
+    },
+    {
+        "album_name": "美丽的一天",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/94/ce/f5/94cef5b5-1e57-ccb5-93f0-d5dbeedc65c0/825646270521.jpg/300x300bb.jpg",
+        "artist_name": "Andy Lau",
+        "url": "",
+        "year": "2002"
     },
     {
         "album_name": "Close To You",
@@ -1281,6 +1533,13 @@
         "year": "2016"
     },
     {
+        "album_name": "活出生命Live演唱会 (Live)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/70/8d/94/708d94ec-a471-05e6-3f0b-df4f81fe1cd2/06UMGIM62178.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Jacky Cheung",
+        "url": "",
+        "year": "2004"
+    },
+    {
         "album_name": "我爱经典系列: Beyond",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/68/71/ef/6871efa6-ea25-86c2-9b11-edc86578a3b1/639842631624.jpg/300x300bb.jpg",
         "artist_name": "Beyond",
@@ -1316,6 +1575,13 @@
         "year": "1971"
     },
     {
+        "album_name": "偷故事的人",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/76/f8/95/76f8954a-4499-16aa-b73e-2df8f206bc2d/17UM1IM52365.rgb.jpg/300x300bb.jpg",
+        "artist_name": "aMEI",
+        "url": "",
+        "year": "2017"
+    },
+    {
         "album_name": "JTW西游记",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e5/1c/f0/e51cf006-7486-a5c4-02fe-7c3830bcd6ad/190296431074.jpg/300x300bb.jpg",
         "artist_name": "Khalil Fong",
@@ -1330,11 +1596,25 @@
         "year": "1979"
     },
     {
+        "album_name": "上五楼的快活 (2nd Edition)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b6/e8/32/b6e83260-30dc-dee7-aa40-31ab8adfee7d/00602527266213.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Eason Chan",
+        "url": "",
+        "year": "2009"
+    },
+    {
         "album_name": "Have A Nice Day",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f7/b8/75/f7b87511-2c68-ef4d-2991-c59ec0b3e341/cover.jpg/300x300bb.jpg",
         "artist_name": "Waa Wei",
         "url": "",
         "year": "2021"
+    },
+    {
+        "album_name": "孙燕姿Stefanie同名专辑",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/94/d7/fc/mzi.itefxkul.jpg/300x300bb.jpg",
+        "artist_name": "Yanzi Sun",
+        "url": "",
+        "year": "2004"
     },
     {
         "album_name": "Rubber Soul",
@@ -1461,6 +1741,13 @@
         "artist_name": "The Spinners",
         "url": "",
         "year": "1976"
+    },
+    {
+        "album_name": "猎户星座",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/f8/5f/63f85f7c-62f3-9501-2744-9cca6697ee18/cover.jpg/300x300bb.jpg",
+        "artist_name": "Pu Shu",
+        "url": "",
+        "year": "2017"
     },
     {
         "album_name": "黑梦",
@@ -1596,11 +1883,25 @@
         "year": "2019"
     },
     {
+        "album_name": "幸存者的负罪感",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/0e/3b/060e3bef-e0c9-4347-41f7-45e013015824/198588032244.jpg/300x300bb.jpg",
+        "artist_name": "Yitai Wang & AIR",
+        "url": "",
+        "year": "2021"
+    },
+    {
         "album_name": "瓦合",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b0/f9/38/b0f9387d-f9cb-a50f-e17b-7b2f594f49ae/197188439798.jpg/300x300bb.jpg",
         "artist_name": "No Party for Cao Dong",
         "url": "",
         "year": "2023"
+    },
+    {
+        "album_name": "亲爱的路人",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/80/f7/f2/80f7f266-28cc-239d-daf1-7ab08141d345/Rene_Liu-cover.jpg/300x300bb.jpg",
+        "artist_name": "Rene Liu",
+        "url": "",
+        "year": "2013"
     },
     {
         "album_name": "寻人启事",
@@ -1715,6 +2016,13 @@
         "year": "2012"
     },
     {
+        "album_name": "ZERO",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/8b/0a/0c8b0a36-c231-d213-babc-65cbc992394e/Naiwen_Yang_ZERO_Cover_1400x1400.jpg/300x300bb.jpg",
+        "artist_name": "Naiwen Yang",
+        "url": "",
+        "year": "2013"
+    },
+    {
         "album_name": "Bread",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/e0/4a/e2e04a9e-bca4-cbba-490e-3894f496107e/mzi.wfxxzwdx.jpg/300x300bb.jpg",
         "artist_name": "Bread",
@@ -1725,6 +2033,27 @@
         "album_name": "今日营业中",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/12/1a/9a/121a9a3f-301c-ec4f-d384-bcb0ce8d6380/1400X1400.jpg/300x300bb.jpg",
         "artist_name": "Yoga Lin",
+        "url": "",
+        "year": "2016"
+    },
+    {
+        "album_name": "神秘嘉宾",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/70/e0/d0/70e0d089-824a-50c1-f373-6594d690c4f0/asset.jpg/300x300bb.jpg",
+        "artist_name": "Yoga Lin",
+        "url": "",
+        "year": "2008"
+    },
+    {
+        "album_name": "就是莫文蔚",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/eb/22/39/eb223900-0182-c49c-6c82-ee342cbd6c22/4710149707703_cover.jpg/300x300bb.jpg",
+        "artist_name": "Karen Mok",
+        "url": "",
+        "year": "1999"
+    },
+    {
+        "album_name": "离心力",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a1/a1/ca/a1a1cac4-b61c-6134-5ce9-729b6129e12e/4712931524567.jpg/300x300bb.jpg",
+        "artist_name": "Naiwen Yang",
         "url": "",
         "year": "2016"
     },
@@ -1755,6 +2084,13 @@
         "artist_name": "Lala Hsu",
         "url": "",
         "year": "2010"
+    },
+    {
+        "album_name": "陈婧霏",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/6c/26/4d6c26cb-a2ef-d051-8510-9efd8b18f582/cover.jpg/300x300bb.jpg",
+        "artist_name": "Jingfei Chen",
+        "url": "",
+        "year": "2020"
     },
     {
         "album_name": "ONMYOJAZZ · life",
@@ -1792,6 +2128,27 @@
         "year": "2005"
     },
     {
+        "album_name": "只爱陌生人",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ac/4c/c4/ac4cc4fd-be41-f478-9b4e-32199fd5878c/Untitled.jpg/300x300bb.jpg",
+        "artist_name": "Faye Wong",
+        "url": "",
+        "year": "1999"
+    },
+    {
+        "album_name": "逆光",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/39/8e/7d/398e7d64-1877-03ab-17cb-460943429bc0/825646246939.jpg/300x300bb.jpg",
+        "artist_name": "Yanzi Sun",
+        "url": "",
+        "year": "2007"
+    },
+    {
+        "album_name": "盖世英雄",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f9/82/88/f98288eb-ea32-6c8c-7919-357c31a4b437/1400X1400.jpg/300x300bb.jpg",
+        "artist_name": "Wang Leehom",
+        "url": "",
+        "year": "2005"
+    },
+    {
         "album_name": "Best of Kool & The Gang",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f9/49/bc/f949bc2d-7993-3538-9ca5-c3d23afc4583/13UAEIM19035.rgb.jpg/300x300bb.jpg",
         "artist_name": "Various Artists",
@@ -1820,6 +2177,13 @@
         "year": "2023"
     },
     {
+        "album_name": "春游",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/98/e0/11/98e0111d-09cf-9c93-e0b5-7f08634e58a5/704537425977.jpg/300x300bb.jpg",
+        "artist_name": "Leah Dou",
+        "url": "",
+        "year": "2023"
+    },
+    {
         "album_name": "Lover",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/300x300bb.jpg",
         "artist_name": "Taylor Swift",
@@ -1827,11 +2191,53 @@
         "year": "2019"
     },
     {
+        "album_name": "心中的日月",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/4a/77/be4a7730-c144-a39e-c7b6-9d26ea0ebff3/1400X1400.jpg/300x300bb.jpg",
+        "artist_name": "Wang Leehom",
+        "url": "",
+        "year": "2004"
+    },
+    {
+        "album_name": "十八般武艺",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/94/01/3e94013b-17f0-09e9-69ce-4ab94e1507da/18_Material_arts.png/300x300bb.jpg",
+        "artist_name": "Wang Leehom",
+        "url": "",
+        "year": "2010"
+    },
+    {
+        "album_name": "你的爱。",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/87/41/6f/87416ffc-5e2a-72fa-ee11-77e20c4b2570/dj.snsrxfvs.jpg/300x300bb.jpg",
+        "artist_name": "Wang Leehom",
+        "url": "",
+        "year": "2015"
+    },
+    {
         "album_name": "After Hours",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/300x300bb.jpg",
         "artist_name": "The Weeknd",
         "url": "",
         "year": "2020"
+    },
+    {
+        "album_name": "我的快乐时代",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a6/b8/20/a6b820e1-aabb-a4c2-e9d1-47637240ca65/825646268146.jpg/300x300bb.jpg",
+        "artist_name": "Eason Chan",
+        "url": "",
+        "year": "1998"
+    },
+    {
+        "album_name": "准备中",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1e/23/7a/1e237a15-76a6-8320-2253-2f59d4506cc4/00602488886178.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Eason Chan",
+        "url": "",
+        "year": "2015"
+    },
+    {
+        "album_name": "心里学",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8a/60/e8/8a60e833-5516-7c16-2bdf-864627aa71e4/4713108163152.jpg/300x300bb.jpg",
+        "artist_name": "Lala Hsu",
+        "url": "",
+        "year": "2017"
     },
     {
         "album_name": "The Key",
@@ -1883,6 +2289,13 @@
         "year": "2018"
     },
     {
+        "album_name": "做自己",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/76/64/ab/7664abdc-bcec-6975-bdb9-3586fe1c14cd/dj.fdorzcsh.jpg/300x300bb.jpg",
+        "artist_name": "Karen Mok",
+        "url": "",
+        "year": "1997"
+    },
+    {
         "album_name": "You & I",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/0e/cd/860ecdc9-bd69-979a-5175-2462f526b0e3/4050538896527.jpg/300x300bb.jpg",
         "artist_name": "Rita Ora",
@@ -1902,6 +2315,13 @@
         "artist_name": "David Tao",
         "url": "",
         "year": "2003"
+    },
+    {
+        "album_name": "再见你好吗",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/02/d4/40/02d4408f-d979-8b13-1920-2cbacaeaebb4/4711448510025.jpg/300x300bb.jpg",
+        "artist_name": "David Tao",
+        "url": "",
+        "year": "2013"
     },
     {
         "album_name": "Yes!",
@@ -1960,6 +2380,20 @@
         "year": "2002"
     },
     {
+        "album_name": "(What's the Story) Morning Glory? [Deluxe Edition] [Remastered]",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e2/e4/9b/e2e49bdf-c92c-2ff9-c7bd-7e651f2aa6b3/886444642743.jpg/300x300bb.jpg",
+        "artist_name": "Oasis",
+        "url": "",
+        "year": "1995"
+    },
+    {
+        "album_name": "十万个为什么",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/04/fe/c0/04fec006-947a-0775-3c75-7bf886f15ed6/9787881067353.jpg/300x300bb.jpg",
+        "artist_name": "Wang Wen",
+        "url": "",
+        "year": "2020"
+    },
+    {
         "album_name": "Time Flies...1994-2009",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/2a/6c/a12a6c65-fc8d-a61e-762c-42860d181bd2/884977638448.jpg/300x300bb.jpg",
         "artist_name": "Various Artists",
@@ -1974,6 +2408,13 @@
         "year": "1969"
     },
     {
+        "album_name": "六九乐章",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/44/48/45/44484535-044f-8e79-5308-eccc4a743033/190295004699.jpg/300x300bb.jpg",
+        "artist_name": "David Tao",
+        "url": "",
+        "year": "2009"
+    },
+    {
         "album_name": "The Wall",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/b4/e3/3cb4e3d0-cd77-8f18-7465-d60e6949b435/886445635850.jpg/300x300bb.jpg",
         "artist_name": "Pink Floyd",
@@ -1981,9 +2422,30 @@
         "year": "1979"
     },
     {
+        "album_name": "果岭里29号",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ba/97/1f/ba971f67-0330-6836-b61d-401b32e09233/003cL4V22SBByH_ADUBzegG24yJp4U0nzVi5U3.jpg/300x300bb.jpg",
+        "artist_name": "Wang Feng",
+        "url": "",
+        "year": "2017"
+    },
+    {
         "album_name": "The Happy Star",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ca/24/cd/ca24cd52-ec4e-09ba-ec3f-a9984af260ff/194690984952_cover.jpg/300x300bb.jpg",
         "artist_name": "Lexie Liu",
+        "url": "",
+        "year": "2022"
+    },
+    {
+        "album_name": "黑豹",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/d3/0a/d3/d30ad392-142d-2d60-f721-16028ae68ebb/dj.lmoukelr.jpg/300x300bb.jpg",
+        "artist_name": "Black Panther",
+        "url": "",
+        "year": "1992"
+    },
+    {
+        "album_name": "娱乐自己",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/18/3f/b6/183fb65a-6764-f6f0-d930-fa5517d5c2c9/4710616566604.jpg/300x300bb.jpg",
+        "artist_name": "Hush",
         "url": "",
         "year": "2022"
     },
@@ -2002,6 +2464,34 @@
         "year": "2020"
     },
     {
+        "album_name": "马拉美的星期二",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/34/c8/4e34c85d-f58f-65db-c6d0-635eafcdad67/22UMGIM86160.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Qing Feng Wu",
+        "url": "",
+        "year": "2022"
+    },
+    {
+        "album_name": "陶喆同名专辑",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/bb/bd/ddbbbda1-9408-72b2-4c0b-943e648be6c1/190295574086.jpg/300x300bb.jpg",
+        "artist_name": "David Tao",
+        "url": "",
+        "year": "1997"
+    },
+    {
+        "album_name": "黑色柳丁",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/05/7a/97/057a9723-2dbd-873b-81e0-5090879b2942/825646245352.jpg/300x300bb.jpg",
+        "artist_name": "David Tao",
+        "url": "",
+        "year": "2002"
+    },
+    {
+        "album_name": "丑奴儿",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/24/eb/9a24ebaf-836f-af51-baa9-23536fca8319/197188392437.jpg/300x300bb.jpg",
+        "artist_name": "No Party for Cao Dong",
+        "url": "",
+        "year": "2016"
+    },
+    {
         "album_name": "Medicated Magic",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/7a/50/c5/7a50c57d-fee3-6d2d-148d-c272a5109a66/dj.inselwtx.jpg/300x300bb.jpg",
         "artist_name": "The Dirty Dozen Brass Band",
@@ -2014,6 +2504,13 @@
         "artist_name": "Brother Strut",
         "url": "",
         "year": "2013"
+    },
+    {
+        "album_name": "= (Tour Edition)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/53/4a/01/534a01d1-d7c6-db04-7e00-b78cd4e50bfc/5054197180880.jpg/300x300bb.jpg",
+        "artist_name": "Ed Sheeran",
+        "url": "",
+        "year": "2021"
     },
     {
         "album_name": "Cheek To Cheek -Jazz Standards from RIO-",
