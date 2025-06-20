@@ -1,5 +1,40 @@
 [
     {
+        "album_name": "High Times: Singles 1992-2006",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/89/b0/a9/89b0a987-0035-d2bd-6bd2-8db8a5866794/196589415295.jpg/300x300bb.jpg",
+        "artist_name": "Jamiroquai",
+        "url": "",
+        "year": "1992"
+    },
+    {
+        "album_name": "Land of Pleasure",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a5/06/50/a5065026-33de-4c50-de47-e2ad4871caa6/9324690107667_01_img001.jpg/300x300bb.jpg",
+        "artist_name": "Sticky Fingers",
+        "url": "",
+        "year": "2014"
+    },
+    {
+        "album_name": "悠长假期 (feat. 佑儿)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/90/08/d4900885-884c-4455-3759-0a055a81e80e/4894859260946.jpg/300x300bb.jpg",
+        "artist_name": "李行亮",
+        "url": "",
+        "year": "2019"
+    },
+    {
+        "album_name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ee/fe/57/eefe5722-cca2-ba78-c3c0-fca085c55651/20UMGIM71814.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Jimmy Cliff",
+        "url": "",
+        "year": "1972"
+    },
+    {
+        "album_name": "Floored",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/98/b0/63/mzi.jxkcjulv.jpg/300x300bb.jpg",
+        "artist_name": "Sugar Ray",
+        "url": "",
+        "year": "1997"
+    },
+    {
         "album_name": "Private Line",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b1/42/58/b14258ef-e512-69e9-6bb0-e005c12c5d5a/mzi.euvymndn.jpg/300x300bb.jpg",
         "artist_name": "Gerald Levert",
