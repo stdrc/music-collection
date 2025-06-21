@@ -1,5 +1,75 @@
 [
     {
+        "album_name": "The Beatles (The White Album)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fa/5b/89/fa5b898d-bad6-e053-4195-260e5c74f2bb/00602567725466.rgb.jpg/300x300bb.jpg",
+        "artist_name": "The Beatles",
+        "url": "",
+        "year": "1968"
+    },
+    {
+        "album_name": "DNCE",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/ed/b7/67edb73c-2666-af9f-cde7-84082ef03a1a/16UMGIM68263.rgb.jpg/300x300bb.jpg",
+        "artist_name": "DNCE",
+        "url": "",
+        "year": "2016"
+    },
+    {
+        "album_name": "Queen Rock Montreal (Live)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/bd/de/56/bdde56ea-668a-204c-d107-34e3fe520638/00602547026064.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Queen",
+        "url": "",
+        "year": "2007"
+    },
+    {
+        "album_name": "Promise",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/8b/22/0b/8b220bf9-7a5f-d266-3d39-c17d0070f3fa/dj.ylfbscrn.jpg/300x300bb.jpg",
+        "artist_name": "Sade",
+        "url": "",
+        "year": "1985"
+    },
+    {
+        "album_name": "Stars",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b1/e2/b1/b1e2b124-7112-b069-b566-a6e482db833f/mzi.jaqbenfs.jpg/300x300bb.jpg",
+        "artist_name": "Simply Red",
+        "url": "",
+        "year": "1991"
+    },
+    {
+        "album_name": "Better Days",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/00/4e/67/004e6758-f823-3aed-5051-59ffe377e791/21UMGIM62298.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Mina Okabe",
+        "url": "",
+        "year": "2021"
+    },
+    {
+        "album_name": "Good Thing",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/be/b3/f8beb304-caf4-4b2b-ee4b-1be48dea1412/contsched.kpssrlgt.jpg/300x300bb.jpg",
+        "artist_name": "Leon Bridges",
+        "url": "",
+        "year": "2018"
+    },
+    {
+        "album_name": "Unreal Unearth: Unheard",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/1b/62/5f1b6256-03bd-0c7e-6d2a-8935b6e20906/24UMGIM35632.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Hozier",
+        "url": "",
+        "year": "2024"
+    },
+    {
+        "album_name": "Jump Up! (2003 Remaster)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2d/0c/c5/2d0cc529-841e-9857-d643-ed22371f3e97/00044007711224.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Elton John",
+        "url": "",
+        "year": "1982"
+    },
+    {
+        "album_name": "迷失在爱情中",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/e8/d8/e7e8d87f-a62c-44c5-b698-6698ff04c919/4007192590452.jpg/300x300bb.jpg",
+        "artist_name": "Air Supply",
+        "url": "",
+        "year": "1979"
+    },
+    {
         "album_name": "High Times: Singles 1992-2006",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/89/b0/a9/89b0a987-0035-d2bd-6bd2-8db8a5866794/196589415295.jpg/300x300bb.jpg",
         "artist_name": "Jamiroquai",
