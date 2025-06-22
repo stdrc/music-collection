@@ -1,5 +1,12 @@
 [
     {
+        "album_name": "Deep Feeling",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/80/c8/2a/80c82ad7-6c8f-22e1-54b1-67262a37f55f/22UMGIM42434.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Various Artists",
+        "url": "",
+        "year": "1983"
+    },
+    {
         "album_name": "The Beatles (The White Album)",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fa/5b/89/fa5b898d-bad6-e053-4195-260e5c74f2bb/00602567725466.rgb.jpg/300x300bb.jpg",
         "artist_name": "The Beatles",
