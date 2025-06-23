@@ -1,5 +1,19 @@
 [
     {
+        "album_name": "Second Coming",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f6/17/81/f6178146-5a03-75cc-c059-d6ff88694746/00720642450321.rgb.jpg/300x300bb.jpg",
+        "artist_name": "The Stone Roses",
+        "url": "",
+        "year": "1994"
+    },
+    {
+        "album_name": "It's Hard (Bonus Track Version)",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7e/de/d1/7eded170-9703-ae08-90c0-dd7c19c2bcac/00602537945665.rgb.jpg/300x300bb.jpg",
+        "artist_name": "The Who",
+        "url": "",
+        "year": "1982"
+    },
+    {
         "album_name": "Deep Feeling",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/80/c8/2a/80c82ad7-6c8f-22e1-54b1-67262a37f55f/22UMGIM42434.rgb.jpg/300x300bb.jpg",
         "artist_name": "Various Artists",
