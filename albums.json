@@ -1,5 +1,12 @@
 [
     {
+        "album_name": "Is This It",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/18/7b/cf187bcd-029d-5167-bab6-87219f32d95a/078636804521.jpg/300x300bb.jpg",
+        "artist_name": "The Strokes",
+        "url": "",
+        "year": "2001"
+    },
+    {
         "album_name": "Second Coming",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f6/17/81/f6178146-5a03-75cc-c059-d6ff88694746/00720642450321.rgb.jpg/300x300bb.jpg",
         "artist_name": "The Stone Roses",
