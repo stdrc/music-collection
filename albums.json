@@ -1,5 +1,12 @@
 [
     {
+        "album_name": "Sweet Waves",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/db/96/22db9641-8d8c-efa9-cadd-8a5cdde7967c/6941636715217_1.jpg/300x300bb.jpg",
+        "artist_name": "海妖",
+        "url": "",
+        "year": "2021"
+    },
+    {
         "album_name": "Is This It",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/18/7b/cf187bcd-029d-5167-bab6-87219f32d95a/078636804521.jpg/300x300bb.jpg",
         "artist_name": "The Strokes",
