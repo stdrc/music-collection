@@ -1,19 +1,5 @@
 [
     {
-        "album_name": "Is This It",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/18/7b/cf187bcd-029d-5167-bab6-87219f32d95a/078636804521.jpg/300x300bb.jpg",
-        "artist_name": "The Strokes",
-        "url": "",
-        "year": "2001"
-    },
-    {
-        "album_name": "It's Hard (Bonus Track Version)",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7e/de/d1/7eded170-9703-ae08-90c0-dd7c19c2bcac/00602537945665.rgb.jpg/300x300bb.jpg",
-        "artist_name": "The Who",
-        "url": "",
-        "year": "1982"
-    },
-    {
         "album_name": "Deep Feeling",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/80/c8/2a/80c82ad7-6c8f-22e1-54b1-67262a37f55f/22UMGIM42434.rgb.jpg/300x300bb.jpg",
         "artist_name": "Various Artists",
@@ -42,48 +28,6 @@
         "year": "2021"
     },
     {
-        "album_name": "Good Thing",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/be/b3/f8beb304-caf4-4b2b-ee4b-1be48dea1412/contsched.kpssrlgt.jpg/300x300bb.jpg",
-        "artist_name": "Leon Bridges",
-        "url": "",
-        "year": "2018"
-    },
-    {
-        "album_name": "Jump Up! (2003 Remaster)",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2d/0c/c5/2d0cc529-841e-9857-d643-ed22371f3e97/00044007711224.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Elton John",
-        "url": "",
-        "year": "1982"
-    },
-    {
-        "album_name": "迷失在爱情中",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/e8/d8/e7e8d87f-a62c-44c5-b698-6698ff04c919/4007192590452.jpg/300x300bb.jpg",
-        "artist_name": "Air Supply",
-        "url": "",
-        "year": "1979"
-    },
-    {
-        "album_name": "High Times: Singles 1992-2006",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/89/b0/a9/89b0a987-0035-d2bd-6bd2-8db8a5866794/196589415295.jpg/300x300bb.jpg",
-        "artist_name": "Jamiroquai",
-        "url": "",
-        "year": "1992"
-    },
-    {
-        "album_name": "Land of Pleasure",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a5/06/50/a5065026-33de-4c50-de47-e2ad4871caa6/9324690107667_01_img001.jpg/300x300bb.jpg",
-        "artist_name": "Sticky Fingers",
-        "url": "",
-        "year": "2014"
-    },
-    {
-        "album_name": "The Harder They Come (Original Motion Picture Soundtrack)",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ee/fe/57/eefe5722-cca2-ba78-c3c0-fca085c55651/20UMGIM71814.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Jimmy Cliff",
-        "url": "",
-        "year": "1972"
-    },
-    {
         "album_name": "Floored",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/98/b0/63/mzi.jxkcjulv.jpg/300x300bb.jpg",
         "artist_name": "Sugar Ray",
@@ -91,25 +35,11 @@
         "year": "1997"
     },
     {
-        "album_name": "Marquee Moon",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/6a/c1/1b6ac100-8d0e-ec9d-4639-88b11ed2cdad/603497886029.jpg/300x300bb.jpg",
-        "artist_name": "Television",
-        "url": "",
-        "year": "1977"
-    },
-    {
         "album_name": "Burnin'",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/30/24/ec/3024ec9b-fbf5-f7dd-60c5-5a5b697b4546/06UMGIM41501.rgb.jpg/300x300bb.jpg",
         "artist_name": "The Wailers",
         "url": "",
         "year": "1973"
-    },
-    {
-        "album_name": "HIT ME HARD AND SOFT",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Billie Eilish",
-        "url": "",
-        "year": "2024"
     },
     {
         "album_name": "The Captain and Me (Remastered)",
@@ -126,27 +56,6 @@
         "year": "2024"
     },
     {
-        "album_name": "In a Space Outta Sound",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/e5/41/18e541a9-7a4e-e6d3-c8f7-f832c33ba4a3/mzi.heprywic.jpg/300x300bb.jpg",
-        "artist_name": "Nightmares On Wax",
-        "url": "",
-        "year": "2006"
-    },
-    {
-        "album_name": "Minute By Minute (Remastered)",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7a/dd/74/7add74c3-49dc-1b4b-7555-9adc57c4c0e7/603497878000.jpg/300x300bb.jpg",
-        "artist_name": "The Doobie Brothers",
-        "url": "",
-        "year": "1978"
-    },
-    {
-        "album_name": "Motown Sunset",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/c7/55/25c75575-ff95-e3dc-4d19-5448e748e318/21UMGIM63574.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Various Artists",
-        "url": "",
-        "year": "1980"
-    },
-    {
         "album_name": "Average White Band",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8d/4e/c5/8d4ec503-d0f3-b782-e03d-123c732c353c/cover.jpg/300x300bb.jpg",
         "artist_name": "Average White Band",
@@ -154,32 +63,11 @@
         "year": "1980"
     },
     {
-        "album_name": "Lovers Rock",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/85/d9/05/85d9053a-565b-723d-0823-c0c2a0dbff87/mzi.ifrkjjuc.jpg/300x300bb.jpg",
-        "artist_name": "Sade",
-        "url": "",
-        "year": "2000"
-    },
-    {
         "album_name": "Back to Front (Deluxe Edition)",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/16/e9/24/16e924b8-2433-9567-99e7-617087187a53/0698458815484.jpg/300x300bb.jpg",
         "artist_name": "Gilbert O'Sullivan",
         "url": "",
         "year": "1971"
-    },
-    {
-        "album_name": "In Utero (20th Anniversary Edition)",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/20/03/e32003a4-99bc-1c70-40ba-001882f35dba/00602537526840.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Nirvana",
-        "url": "",
-        "year": "1993"
-    },
-    {
-        "album_name": "Hopes and Fears",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/95/5a/d3955ade-d65f-9a8d-ef5a-0f1b48dd1c67/06UMGIM31043.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Keane",
-        "url": "",
-        "year": "2004"
     },
     {
         "album_name": "Emergency",
@@ -201,13 +89,6 @@
         "artist_name": "The Bar-Kays",
         "url": "",
         "year": "1973"
-    },
-    {
-        "album_name": "My Way",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3f/ff/a3/3fffa34f-4699-a646-c175-c936446fc540/dj.rxuxuefh.jpg/300x300bb.jpg",
-        "artist_name": "USHER",
-        "url": "",
-        "year": "1997"
     },
     {
         "album_name": "Don't Be Cruel",
@@ -238,34 +119,6 @@
         "year": "1968"
     },
     {
-        "album_name": "Give Me the Night",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/ef/c2/77efc2f1-1296-4117-94f2-bab1d27db761/mzi.bqejlnju.jpg/300x300bb.jpg",
-        "artist_name": "George Benson",
-        "url": "",
-        "year": "1980"
-    },
-    {
-        "album_name": "I Want You",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/38/6d/de/386dde81-f75b-944a-a8bf-efec51554486/14UMGIM55410.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Marvin Gaye",
-        "url": "",
-        "year": "1976"
-    },
-    {
-        "album_name": "Madonna",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m09/d19/h20/mzi.ykiinwgl.jpg/300x300bb.jpg",
-        "artist_name": "Madonna",
-        "url": "",
-        "year": "1983"
-    },
-    {
-        "album_name": "Long Way Home",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/81/5f/60815fba-e611-d02a-2486-cb374f25ee46/198588152744.jpg/300x300bb.jpg",
-        "artist_name": "Ray LaMontagne",
-        "url": "",
-        "year": "2024"
-    },
-    {
         "album_name": "Don't Look Any Further (Expanded Edition)",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/04/72/2d/04722d67-38c1-e58b-2ed6-6b6c0447663f/19UM1IM01753.rgb.jpg/300x300bb.jpg",
         "artist_name": "Dennis Edwards",
@@ -287,32 +140,11 @@
         "year": "1982"
     },
     {
-        "album_name": "Imagine (The Ultimate Mixes)",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/c8/24/58c82410-0d31-e5fc-6a45-e5bd6a6658df/18UMGIM52733.rgb.jpg/300x300bb.jpg",
-        "artist_name": "John Lennon",
-        "url": "",
-        "year": "1971"
-    },
-    {
-        "album_name": "Highway to Hell",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/c8/ef/b9c8ef42-bbc9-64df-11f8-717571f6730f/886443673458.jpg/300x300bb.jpg",
-        "artist_name": "AC/DC",
-        "url": "",
-        "year": "1979"
-    },
-    {
         "album_name": "American Pie (Expanded Edition)",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7a/fd/77/7afd77f5-a928-109c-5da5-c591b8dad4b2/13UABIM59293.rgb.jpg/300x300bb.jpg",
         "artist_name": "Don Mclean",
         "url": "",
         "year": "1971"
-    },
-    {
-        "album_name": "A Night at the Opera",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/79/5e/2a795e51-8e3e-a743-0dd5-0947ad3383f0/14UMGIM39390.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Queen",
-        "url": "",
-        "year": "1975"
     },
     {
         "album_name": "The Definitive Collection",
@@ -322,32 +154,11 @@
         "year": "2002"
     },
     {
-        "album_name": "Happier Than Ever",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/f3/c9/2df3c9fd-e0eb-257c-c035-b04f05a66580/21UMGIM36691.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Billie Eilish",
-        "url": "",
-        "year": "2021"
-    },
-    {
-        "album_name": "The Marshall Mathers LP",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f7/76/f4/f776f482-406b-301a-4145-14617d0b8cf5/00606949062927.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Eminem",
-        "url": "",
-        "year": "2000"
-    },
-    {
         "album_name": "After the Gold Rush",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/88/9f/0a/889f0afc-ca89-5968-ef83-ab07f7184eb6/093624924753.jpg/300x300bb.jpg",
         "artist_name": "Neil Young",
         "url": "",
         "year": "1970"
-    },
-    {
-        "album_name": "Get Rich or Die Tryin",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/10/a1/9f/10a19f83-a2f3-40c2-858d-b3d612e251bd/06UMGIM31218.rgb.jpg/300x300bb.jpg",
-        "artist_name": "50 Cent",
-        "url": "",
-        "year": "2003"
     },
     {
         "album_name": "Cloud Nine",
@@ -371,13 +182,6 @@
         "year": "2016"
     },
     {
-        "album_name": "Magical Mystery Tour",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/0e/37/430e3790-75d5-c96a-1380-f9d9803aa700/18UMGIM31245.rgb.jpg/300x300bb.jpg",
-        "artist_name": "The Beatles",
-        "url": "",
-        "year": "1967"
-    },
-    {
         "album_name": "Broadcast",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/f1/a5/1bf1a599-decb-1437-358c-4b63c8edafec/00077778600251.jpg/300x300bb.jpg",
         "artist_name": "Cutting Crew",
@@ -392,32 +196,11 @@
         "year": "1976"
     },
     {
-        "album_name": "加州旅馆",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/16/2c/88162c3d-46db-8321-61f3-3a47404cfe76/075596050920.jpg/300x300bb.jpg",
-        "artist_name": "Eagles",
-        "url": "",
-        "year": "1976"
-    },
-    {
         "album_name": "残酷な天使のテーゼ - EP",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/c7/68/d7/mzi.anmgzqdl.jpg/300x300bb.jpg",
         "artist_name": "Yoko Takahashi",
         "url": "",
         "year": "1995"
-    },
-    {
-        "album_name": "Heartbreak Weather",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/87/ad/e287ad34-3236-86bd-ccff-c50d1675425e/19UM1IM08786.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Niall Horan",
-        "url": "",
-        "year": "2020"
-    },
-    {
-        "album_name": "Jake Bugg",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/35/b1/ab/35b1abf8-55ec-da0f-e6c2-58071fba5db8/00602537070572.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Jake Bugg",
-        "url": "",
-        "year": "2012"
     },
     {
         "album_name": "Doo-Wops & Hooligans",
@@ -427,32 +210,11 @@
         "year": "2010"
     },
     {
-        "album_name": "我要快乐?",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/91/87/f5/9187f5de-adb7-6213-9f4b-f72566622ea5/mzi.qnbgyfsj.jpg/300x300bb.jpg",
-        "artist_name": "aMEI",
-        "url": "",
-        "year": "2006"
-    },
-    {
         "album_name": "Back In Black",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/14/58/1e145814-281a-58e0-3ab1-145f5d1af421/886443673441.jpg/300x300bb.jpg",
         "artist_name": "AC/DC",
         "url": "",
         "year": "1980"
-    },
-    {
-        "album_name": "Hunting High & Low (Remastered)",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0b/5b/69/0b5b6991-cd46-7222-fca7-680b17318721/603497888191.jpg/300x300bb.jpg",
-        "artist_name": "a-ha",
-        "url": "",
-        "year": "1985"
-    },
-    {
-        "album_name": "Love Deluxe",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/c8/d7/18c8d7bc-8491-09e6-df0d-6e0a83ead680/mzi.wsikzifg.jpg/300x300bb.jpg",
-        "artist_name": "Sade",
-        "url": "",
-        "year": "1992"
     },
     {
         "album_name": "Bewitched",
@@ -467,13 +229,6 @@
         "artist_name": "Lou Rawls",
         "url": "",
         "year": "1976"
-    },
-    {
-        "album_name": "KC and the Sunshine Band",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/e0/cf/ad/e0cfad76-d99c-22e4-c607-59f4690fa3e4/724357890854.jpg/300x300bb.jpg",
-        "artist_name": "KC and the Sunshine Band",
-        "url": "",
-        "year": "1975"
     },
     {
         "album_name": "Future Bound",
@@ -504,20 +259,6 @@
         "year": "1975"
     },
     {
-        "album_name": "Marigold Sky",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/a0/dc/3ca0dcd9-ca9c-dfd8-6d76-970fb0e008c0/4050538668957.jpg/300x300bb.jpg",
-        "artist_name": "Daryl Hall & John Oates",
-        "url": "",
-        "year": "1997"
-    },
-    {
-        "album_name": "Manna",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1c/80/68/1c8068a6-c66b-f682-4e4b-77279b219c67/mzi.qvvqlgus.jpg/300x300bb.jpg",
-        "artist_name": "Bread",
-        "url": "",
-        "year": "1971"
-    },
-    {
         "album_name": "Be Here Now (Remastered)",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7b/e6/d4/7be6d456-6b58-20e4-8e07-442f55c214c2/886446009650.jpg/300x300bb.jpg",
         "artist_name": "Oasis",
@@ -532,25 +273,11 @@
         "year": "1983"
     },
     {
-        "album_name": "Late Late Summer",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5c/88/db/5c88db03-a3a8-07cc-e7ad-871694d5e34a/886448397588.jpg/300x300bb.jpg",
-        "artist_name": "Bread & Butter",
-        "url": "",
-        "year": "1979"
-    },
-    {
         "album_name": "Coming Home (Deluxe)",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/27/37/70/273770eb-92ac-1d00-87e6-e0f5ec0e97ab/886445452204.jpg/300x300bb.jpg",
         "artist_name": "Leon Bridges",
         "url": "",
         "year": "2015"
-    },
-    {
-        "album_name": "LOVE TRIP",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/3a/2b/e83a2b42-b8a7-b821-32e4-912a2ee9bfec/23UMGIM09953.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Takako Mamiya",
-        "url": "",
-        "year": "1982"
     },
     {
         "album_name": "The Best of Sade",
@@ -560,32 +287,11 @@
         "year": "1984"
     },
     {
-        "album_name": "Let's Stay Together",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d8/ec/4f/d8ec4f92-0691-9151-1738-9fbe2e19a270/886445144888.jpg/300x300bb.jpg",
-        "artist_name": "Al Green",
-        "url": "",
-        "year": "1971"
-    },
-    {
-        "album_name": "Let's Get It On (Remastered 2003)",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dc/fa/3a/dcfa3a34-a2eb-8144-7fda-b978b7afbe19/06UMGIM11335.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Marvin Gaye",
-        "url": "",
-        "year": "1973"
-    },
-    {
         "album_name": "The Dock of the Bay",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/83/e1/02/83e102bb-b5b8-78ea-10ce-8f210211a9a8/603497889945.jpg/300x300bb.jpg",
         "artist_name": "Otis Redding",
         "url": "",
         "year": "1968"
-    },
-    {
-        "album_name": "十二楼的莫文蔚",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/2b/81/58/2b81585c-9630-283c-acd0-a88793a4c2ec/dj.ihnpyyrn.jpg/300x300bb.jpg",
-        "artist_name": "Karen Mok",
-        "url": "",
-        "year": "2000"
     },
     {
         "album_name": "All Things Must Pass (2014 Remaster)",
@@ -602,32 +308,11 @@
         "year": "2021"
     },
     {
-        "album_name": "Greatest Hits",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4a/f4/6e/4af46e98-d5ef-bfb9-e671-9b64311577c0/886447618448.jpg/300x300bb.jpg",
-        "artist_name": "Earth, Wind & Fire",
-        "url": "",
-        "year": "1975"
-    },
-    {
         "album_name": "Bad",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8d/97/f4/8d97f427-2d17-1a51-1714-324483eb5fc1/886443546264.jpg/300x300bb.jpg",
         "artist_name": "Michael Jackson",
         "url": "",
         "year": "1987"
-    },
-    {
-        "album_name": "La La Land (Original Motion Picture Soundtrack)",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bb/47/a3/bb47a36e-57b8-9260-f9a4-d09851145c45/00602557100556.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Justin Hurwitz, Benj Pasek, Justin Noble Paul, Emma Stone & Ryan Gosling",
-        "url": "",
-        "year": "2016"
-    },
-    {
-        "album_name": "Get On Up: The James Brown Story (Original Motion Picture Soundtrack)",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c0/9e/8f/c09e8f23-2ad2-8da9-92fc-9f5da17a30af/14UMGIM28180.rgb.jpg/300x300bb.jpg",
-        "artist_name": "James Brown",
-        "url": "",
-        "year": "1991"
     },
     {
         "album_name": "The Final: 14 Greatest Hits",
@@ -637,81 +322,11 @@
         "year": "1982"
     },
     {
-        "album_name": "重拾_快乐",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/01/ca/5301cac3-425e-a155-f471-a341937daf32/4711099723225.jpg/300x300bb.jpg",
-        "artist_name": "JJ Lin",
-        "url": "",
-        "year": "2023"
-    },
-    {
-        "album_name": "我很忙",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/2c/9f/f72c9fc6-c4dc-d6a0-4386-0478b09cb797/23UM1IM58609.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Jay Chou",
-        "url": "",
-        "year": "2007"
-    },
-    {
         "album_name": "天使与魔鬼的对话",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/3a/a5/af/3aa5af7c-4f20-159b-f33c-bb999b09ebe8/dj.zduohhpv.jpg/300x300bb.jpg",
         "artist_name": "Tanya Chua",
         "url": "",
         "year": "2013"
-    },
-    {
-        "album_name": "The Need of Love",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/3d/20/4d/mzi.tkhoydih.jpg/300x300bb.jpg",
-        "artist_name": "Earth, Wind & Fire",
-        "url": "",
-        "year": "1971"
-    },
-    {
-        "album_name": "L.O.V.E.",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c9/0b/e0/c90be020-32af-a983-09ed-1f5f1a57f755/00602567962861.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Eason Chan & eason and the duo band",
-        "url": "",
-        "year": "2018"
-    },
-    {
-        "album_name": "Kiss Of Death",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7c/93/c2/7c93c200-2d5a-873f-2d32-6ea29b3ea090/00602498626610.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Jadakiss",
-        "url": "",
-        "year": "2004"
-    },
-    {
-        "album_name": "不要停止我的音乐",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bc/33/01/bc330184-ba69-b8c0-170f-2482505623d9/193017016185.jpg/300x300bb.jpg",
-        "artist_name": "Miserable Faith",
-        "url": "",
-        "year": "2008"
-    },
-    {
-        "album_name": "I'm O.K.",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/77/fc/d077fcf8-6a17-e7ea-6c91-6cf40ad39d81/825646245383.jpg/300x300bb.jpg",
-        "artist_name": "David Tao",
-        "url": "",
-        "year": "1999"
-    },
-    {
-        "album_name": "Gossip In The Grain (Expanded Edition)",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/49/a9/b649a94a-f4b6-471e-645f-1556ca845b72/mzi.ghxebeot.jpg/300x300bb.jpg",
-        "artist_name": "Ray LaMontagne",
-        "url": "",
-        "year": "2008"
-    },
-    {
-        "album_name": "Go East",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/ff/c6/d6ffc639-d4b6-cc8a-a1a3-6fe913b8815d/25UMGIM42356.rgb.jpg/300x300bb.jpg",
-        "artist_name": "New Pants",
-        "url": "",
-        "year": "2009"
-    },
-    {
-        "album_name": "给",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/57/1c/38/571c38ca-ddc9-7834-ba7c-b99b287a82e6/4711099693108.jpg/300x300bb.jpg",
-        "artist_name": "Lala Hsu",
-        "url": "",
-        "year": "2022"
     },
     {
         "album_name": "Flow",
@@ -770,13 +385,6 @@
         "year": "1978"
     },
     {
-        "album_name": "I Am",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1a/99/d8/1a99d83b-8949-029b-302b-ec6b62689b4e/886443461536.jpg/300x300bb.jpg",
-        "artist_name": "Earth, Wind & Fire",
-        "url": "",
-        "year": "1979"
-    },
-    {
         "album_name": "Fictional Illustrations",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/62/91/41/629141c9-0bba-a0ca-696f-e59a12ee653e/artwork.jpg/300x300bb.jpg",
         "artist_name": "Fly By Midnight",
@@ -798,39 +406,11 @@
         "year": "1996"
     },
     {
-        "album_name": "The Long Run",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9a/54/6e/9a546e8b-f994-8d1f-a94b-d2d642dee4ce/075596056021.jpg/300x300bb.jpg",
-        "artist_name": "Eagles",
-        "url": "",
-        "year": "1979"
-    },
-    {
-        "album_name": "GOLDEN",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/78/b4/8678b4b3-2341-7239-b6cb-bcfdaef0e4e0/196922656545_Cover.jpg/300x300bb.jpg",
-        "artist_name": "Jung Kook",
-        "url": "",
-        "year": "2023"
-    },
-    {
-        "album_name": "NewJeans 2nd EP 'Get Up'",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/4b/7e/d34b7e1e-af3b-43b6-2949-7a8c652a1bc9/196922462726_Cover.jpg/300x300bb.jpg",
-        "artist_name": "NewJeans",
-        "url": "",
-        "year": "2023"
-    },
-    {
         "album_name": "The Eternal Dance",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/3b/0d/c63b0ddb-ba2d-49fc-f255-9c925dd4e6e1/886447605004.jpg/300x300bb.jpg",
         "artist_name": "Earth, Wind & Fire",
         "url": "",
         "year": "1992"
-    },
-    {
-        "album_name": "Maxwell's Urban Hang Suite",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5e/64/1e/5e641ea6-be24-4cb1-c7d7-289b1082bee8/888880648082.jpg/300x300bb.jpg",
-        "artist_name": "Maxwell",
-        "url": "",
-        "year": "1996"
     },
     {
         "album_name": "Close To You",
@@ -861,27 +441,6 @@
         "year": "1980"
     },
     {
-        "album_name": "I Got You (I Feel Good)",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/31/1b/a4311b0e-0bf7-eeba-da20-aec06db2b20a/12UMGIM10573.rgb.jpg/300x300bb.jpg",
-        "artist_name": "James Brown & The Famous Flames",
-        "url": "",
-        "year": "1966"
-    },
-    {
-        "album_name": "Invincible",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/dc/02/ef/dc02eff2-027c-a468-7d7b-aa9404e74f1a/mzi.mgytcnob.jpg/300x300bb.jpg",
-        "artist_name": "Michael Jackson",
-        "url": "",
-        "year": "2001"
-    },
-    {
-        "album_name": "Help!",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1a/19/db/1a19db26-17ad-b986-11a9-f72ac7a6194b/18UMGIM31214.rgb.jpg/300x300bb.jpg",
-        "artist_name": "The Beatles",
-        "url": "",
-        "year": "1965"
-    },
-    {
         "album_name": "Eagles",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/e7/f4/8fe7f417-d464-8879-b00e-3d4965a9cfd1/075596062329.jpg/300x300bb.jpg",
         "artist_name": "Eagles",
@@ -896,60 +455,11 @@
         "year": "1980"
     },
     {
-        "album_name": "Killing Me Softly",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/e4/71/97/mzi.mgwzviyu.jpg/300x300bb.jpg",
-        "artist_name": "Roberta Flack",
-        "url": "",
-        "year": "1973"
-    },
-    {
         "album_name": "For Once in My Life",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/b9/52/36b952f0-ae28-86e9-bea0-c8eda8ced06f/14UMGIM51153.rgb.jpg/300x300bb.jpg",
         "artist_name": "Stevie Wonder",
         "url": "",
         "year": "1968"
-    },
-    {
-        "album_name": "Nevermind",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Nirvana",
-        "url": "",
-        "year": "1991"
-    },
-    {
-        "album_name": "Menagerie",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/26/59/17265978-5651-8466-6482-e6abf49fd1a6/886445193275.jpg/300x300bb.jpg",
-        "artist_name": "Bill Withers",
-        "url": "",
-        "year": "1977"
-    },
-    {
-        "album_name": "Illuminate (Deluxe)",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5c/57/e4/5c57e46a-0950-7ebd-8010-28453c1c0055/16UMGIM51723.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Shawn Mendes",
-        "url": "",
-        "year": "2016"
-    },
-    {
-        "album_name": "我爱经典系列: Beyond",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/68/71/ef/6871efa6-ea25-86c2-9b11-edc86578a3b1/639842631624.jpg/300x300bb.jpg",
-        "artist_name": "Beyond",
-        "url": "",
-        "year": "1992"
-    },
-    {
-        "album_name": "Lemonade",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/db/25/a1/db25a1c0-8a4a-3b4d-226d-7c7704dc92da/886447680711.jpg/300x300bb.jpg",
-        "artist_name": "Beyoncé",
-        "url": "",
-        "year": "2016"
-    },
-    {
-        "album_name": "Melodrama",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8d/0d/15/8d0d1532-493b-52ec-6a29-a239ced6931b/17UMGIM81023.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Lorde",
-        "url": "",
-        "year": "2017"
     },
     {
         "album_name": "Escape (Remastered)",
@@ -966,39 +476,11 @@
         "year": "1971"
     },
     {
-        "album_name": "JTW西游记",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e5/1c/f0/e51cf006-7486-a5c4-02fe-7c3830bcd6ad/190296431074.jpg/300x300bb.jpg",
-        "artist_name": "Khalil Fong",
-        "url": "",
-        "year": "2016"
-    },
-    {
-        "album_name": "Have A Nice Day",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f7/b8/75/f7b87511-2c68-ef4d-2991-c59ec0b3e341/cover.jpg/300x300bb.jpg",
-        "artist_name": "Waa Wei",
-        "url": "",
-        "year": "2021"
-    },
-    {
-        "album_name": "Grudges",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a2/fb/7a/a2fb7aea-010d-74bf-72f3-789369e65f3e/23UMGIM49817.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Kiana Ledé",
-        "url": "",
-        "year": "2023"
-    },
-    {
         "album_name": "American Woman (Expanded Edition)",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/f5/68/2cf5681a-1378-c8f6-8f87-22b9fa55254c/886447881972.jpg/300x300bb.jpg",
         "artist_name": "The Guess Who",
         "url": "",
         "year": "1970"
-    },
-    {
-        "album_name": "吉他手",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/a2/21/3ca22123-14d6-57f4-9e52-aa4573a05b07/mzm.clkcarof.jpg/300x300bb.jpg",
-        "artist_name": "Cheer Chen",
-        "url": "",
-        "year": "2002"
     },
     {
         "album_name": "Creep - EP",
@@ -1057,13 +539,6 @@
         "year": "1975"
     },
     {
-        "album_name": "Hot Pink",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5b/14/ea/5b14eabe-3fbd-4f00-273d-4760dfbb5aef/886447991824.jpg/300x300bb.jpg",
-        "artist_name": "Doja Cat",
-        "url": "",
-        "year": "2019"
-    },
-    {
         "album_name": "Best Of 2019",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/c7/df/34c7dff1-f445-051a-ed05-6b720d969408/194152204758.png/300x300bb.jpg",
         "artist_name": "Pomplamoose",
@@ -1076,20 +551,6 @@
         "artist_name": "Queen",
         "url": "",
         "year": "1980"
-    },
-    {
-        "album_name": "Justified",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/76/d2/f976d242-4e68-1919-6576-ef4c869c077a/dj.umvqrvup.jpg/300x300bb.jpg",
-        "artist_name": "Justin Timberlake",
-        "url": "",
-        "year": "2002"
-    },
-    {
-        "album_name": "Harry's House",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/19/fb/2a19fb85-2f70-9e44-f2a9-82abe679b88e/886449990061.jpg/300x300bb.jpg",
-        "artist_name": "Harry Styles",
-        "url": "",
-        "year": "2022"
     },
     {
         "album_name": "C'est Chic (2018 Remaster)",
@@ -1106,44 +567,9 @@
         "year": "2020"
     },
     {
-        "album_name": "My Name is Joe",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c8/50/1b/c8501b4d-06bb-06fd-eee7-833fe4578de1/012414170323.jpg/300x300bb.jpg",
-        "artist_name": "Joe",
-        "url": "",
-        "year": "2000"
-    },
-    {
         "album_name": "瓦合",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b0/f9/38/b0f9387d-f9cb-a50f-e17b-7b2f594f49ae/197188439798.jpg/300x300bb.jpg",
         "artist_name": "No Party for Cao Dong",
-        "url": "",
-        "year": "2023"
-    },
-    {
-        "album_name": "寻人启事",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e6/50/8e/e6508e39-a7f5-013c-5a6a-91dadb144d51/dj.ukjorymn.jpg/300x300bb.jpg",
-        "artist_name": "Lala Hsu",
-        "url": "",
-        "year": "2014"
-    },
-    {
-        "album_name": "In Gold EP",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/86/00/f0860066-6f7a-9c23-8a27-837322865294/886447756027_Cover.jpg/300x300bb.jpg",
-        "artist_name": "Delilah Montagu",
-        "url": "",
-        "year": "2019"
-    },
-    {
-        "album_name": "Hotel California (40th Anniversary Expanded Edition)",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/f0/88/8ff088ee-bd18-8a27-1bb6-c0e44ad91cb6/603497862542.jpg/300x300bb.jpg",
-        "artist_name": "Eagles",
-        "url": "",
-        "year": "1976"
-    },
-    {
-        "album_name": "Laugh Track",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/1c/a0/6a1ca0bc-7e6e-39f9-3912-46532ceb0d68/191400067974.png/300x300bb.jpg",
-        "artist_name": "The National",
         "url": "",
         "year": "2023"
     },
@@ -1155,32 +581,11 @@
         "year": "1967"
     },
     {
-        "album_name": "Main Course",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bb/15/72/bb157228-9c5f-c368-e952-cb94e80ffd69/06UMGIM31816.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Bee Gees",
-        "url": "",
-        "year": "1975"
-    },
-    {
-        "album_name": "A New Morning (Deluxe Edition) [Remastered]",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5b/40/81/5b408178-6dcd-0600-9782-a6a432507350/cover.jpg/300x300bb.jpg",
-        "artist_name": "Suede",
-        "url": "",
-        "year": "2002"
-    },
-    {
         "album_name": "Everyday Is Christmas (Deluxe)",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/300x300bb.jpg",
         "artist_name": "Sia",
         "url": "",
         "year": "2017"
-    },
-    {
-        "album_name": "Hot Space",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/07/24/f8/0724f801-1775-0eec-b015-021444077ceb/14UMGIM42217.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Queen",
-        "url": "",
-        "year": "1982"
     },
     {
         "album_name": "Desperado",
@@ -1190,25 +595,11 @@
         "year": "1973"
     },
     {
-        "album_name": "Goodbye Girl",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d3/aa/3e/d3aa3e11-1271-ed05-1c29-49cf32289575/mzi.cbdjejle.jpg/300x300bb.jpg",
-        "artist_name": "David Gates",
-        "url": "",
-        "year": "1976"
-    },
-    {
         "album_name": "Bread",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/e0/4a/e2e04a9e-bca4-cbba-490e-3894f496107e/mzi.wfxxzwdx.jpg/300x300bb.jpg",
         "artist_name": "Bread",
         "url": "",
         "year": "1969"
-    },
-    {
-        "album_name": "今日营业中",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/12/1a/9a/121a9a3f-301c-ec4f-d384-bcb0ce8d6380/1400X1400.jpg/300x300bb.jpg",
-        "artist_name": "Yoga Lin",
-        "url": "",
-        "year": "2016"
     },
     {
         "album_name": "Don't Be Cruel (Expanded Edition)",
@@ -1225,20 +616,6 @@
         "year": "2017"
     },
     {
-        "album_name": "极限",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/78/13/ba781329-20e1-0245-e197-d8e6aff989cf/4000x4000.jpg/300x300bb.jpg",
-        "artist_name": "Lala Hsu",
-        "url": "",
-        "year": "2010"
-    },
-    {
-        "album_name": "Musicology",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/54/02/4d/54024da3-97ab-6957-4699-b52f6a7fc064/886447216194.jpg/300x300bb.jpg",
-        "artist_name": "Prince",
-        "url": "",
-        "year": "2004"
-    },
-    {
         "album_name": "Face to Face",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6b/38/ab/6b38abc7-23a1-a5b1-9fc7-b96740df42e7/888880790033.jpg/300x300bb.jpg",
         "artist_name": "Westlife",
@@ -1253,32 +630,11 @@
         "year": "1994"
     },
     {
-        "album_name": "Hollywood's Bleeding",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6c/13/27/6c13279a-399b-2631-3cb2-6233a91d7a53/19UMGIM78325.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Post Malone",
-        "url": "",
-        "year": "2019"
-    },
-    {
-        "album_name": "Midnights (The Til Dawn Edition)",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/85/b9/a685b9f8-dad3-2ed7-58b2-ab7f64304505/23UMGIM58157.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Taylor Swift",
-        "url": "",
-        "year": "2022"
-    },
-    {
         "album_name": "AUSTIN (Bonus)",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/aa/8c/9aaa8c62-7567-d1d6-fdca-bf6ac60e9d66/23UMGIM50188.rgb.jpg/300x300bb.jpg",
         "artist_name": "Post Malone",
         "url": "",
         "year": "2023"
-    },
-    {
-        "album_name": "Lover",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Taylor Swift",
-        "url": "",
-        "year": "2019"
     },
     {
         "album_name": "After Hours",
@@ -1288,13 +644,6 @@
         "year": "2020"
     },
     {
-        "album_name": "Mercury - Acts 1 & 2",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2d/54/70/2d5470e7-ab60-f062-7ac8-e950e9726cba/22UMGIM37171.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Imagine Dragons",
-        "url": "",
-        "year": "2021"
-    },
-    {
         "album_name": "Evolve",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/300x300bb.jpg",
         "artist_name": "Imagine Dragons",
@@ -1302,46 +651,11 @@
         "year": "2018"
     },
     {
-        "album_name": "Mystical Magical Rhythmical Radical Ride",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/be/88/f8/be88f875-43e1-be9a-d2ed-d5b6a08b996d/4050538881066.jpg/300x300bb.jpg",
-        "artist_name": "Jason Mraz",
-        "url": "",
-        "year": "2023"
-    },
-    {
-        "album_name": "Make It Happen (Deluxe Edition)",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b4/86/54/b4865445-6ff5-18aa-8049-80183a0ce6d9/075597926835.jpg/300x300bb.jpg",
-        "artist_name": "John Splithoff",
-        "url": "",
-        "year": "2016"
-    },
-    {
-        "album_name": "Harold F",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/2b/b0/6b2bb09c-b5bc-d78e-a5cf-fad9e51f78e5/00602577636356.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Harold Faltermeyer",
-        "url": "",
-        "year": "1988"
-    },
-    {
-        "album_name": "Heathen Chemistry",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/27/5c/61275c22-03c2-b92c-947e-db85c1ad7780/886444456593.jpg/300x300bb.jpg",
-        "artist_name": "Oasis",
-        "url": "",
-        "year": "2002"
-    },
-    {
         "album_name": "Abbey Road (2019 Mix)",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/53/43/485343e3-dd6a-0034-faec-f4b6403f8108/13UMGIM63890.rgb.jpg/300x300bb.jpg",
         "artist_name": "The Beatles",
         "url": "",
         "year": "1969"
-    },
-    {
-        "album_name": "Medicated Magic",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/7a/50/c5/7a50c57d-fee3-6d2d-148d-c272a5109a66/dj.inselwtx.jpg/300x300bb.jpg",
-        "artist_name": "The Dirty Dozen Brass Band",
-        "url": "",
-        "year": "2002"
     },
     {
         "album_name": "First Strut is the Deepest",
@@ -1384,19 +698,5 @@
         "artist_name": "Various Artists",
         "url": "",
         "year": "2015"
-    },
-    {
-        "album_name": "In Deepest Blue (Bonus Track Version)",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/05/d8/a2/05d8a256-ffc8-c7b6-a058-d9a1107f3545/067003111751.png/300x300bb.jpg",
-        "artist_name": "Joshua Hyslop",
-        "url": "",
-        "year": "2015"
-    },
-    {
-        "album_name": "Messy",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/26/8d/bb/268dbb59-4df1-36c3-525e-8d24c921ee25/23UMGIM04594.rgb.jpg/300x300bb.jpg",
-        "artist_name": "Various Artists",
-        "url": "",
-        "year": "2023"
     }
 ]
