@@ -1,5 +1,12 @@
 [
     {
+        "album_name": "Baduizm",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/86/ce/c1/86cec101-bf1f-c565-e794-656b108f3ee1/15UMGIM77651.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Erykah Badu",
+        "url": "",
+        "year": "1997"
+    },
+    {
         "album_name": "Toto IV",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/ce/d2/69ced240-07a7-2a04-bbab-2afbacf30809/074643772822.jpg/300x300bb.jpg",
         "artist_name": "Toto",
