@@ -1,5 +1,26 @@
 [
     {
+        "album_name": "The Diary of Alicia Keys",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/07/c6/c207c6ee-e3f1-cad2-1259-69a3ebd08b5c/828765571227.jpg/300x300bb.jpg",
+        "artist_name": "Alicia Keys",
+        "url": "",
+        "year": "2003"
+    },
+    {
+        "album_name": "Positivity",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/f8/72/31f872fb-15bc-fbc2-8d47-bb58219095ab/5400863142193_cover.jpg/300x300bb.jpg",
+        "artist_name": "Incognito",
+        "url": "",
+        "year": "1993"
+    },
+    {
+        "album_name": "The Miseducation of Lauryn Hill",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/300x300bb.jpg",
+        "artist_name": "Lauryn Hill",
+        "url": "",
+        "year": "1998"
+    },
+    {
         "album_name": "Baduizm",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/86/ce/c1/86cec101-bf1f-c565-e794-656b108f3ee1/15UMGIM77651.rgb.jpg/300x300bb.jpg",
         "artist_name": "Erykah Badu",
