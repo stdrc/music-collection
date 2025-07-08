@@ -1,5 +1,19 @@
 [
     {
+        "album_name": "STUPID POP SONGS",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/b9/8c/c4b98c39-8c46-cead-f6ed-bf81323961cd/193017172331.jpg/300x300bb.jpg",
+        "artist_name": "David Tao",
+        "url": "",
+        "year": "2025"
+    },
+    {
+        "album_name": "The Score",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0e/d1/5b/0ed15b14-271c-35d5-5909-49f18fbfb32b/886445600605.jpg/300x300bb.jpg",
+        "artist_name": "Fugees",
+        "url": "",
+        "year": "1996"
+    },
+    {
         "album_name": "The Diary of Alicia Keys",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/07/c6/c207c6ee-e3f1-cad2-1259-69a3ebd08b5c/828765571227.jpg/300x300bb.jpg",
         "artist_name": "Alicia Keys",
@@ -1006,6 +1020,13 @@
         "artist_name": "Michael Jackson",
         "url": "",
         "year": "1987"
+    },
+    {
+        "album_name": "署前街少年",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3e/fc/be/3efcbe87-236a-ad35-98c0-b075cd95a1b4/6976364784976.jpg/300x300bb.jpg",
+        "artist_name": "Lei Zhao",
+        "url": "",
+        "year": "2022"
     },
     {
         "album_name": "署前街少年",
