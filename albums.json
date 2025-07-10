@@ -2653,6 +2653,13 @@
         "year": "2022"
     },
     {
+        "album_name": "黑豹",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/d3/0a/d3/d30ad392-142d-2d60-f721-16028ae68ebb/dj.lmoukelr.jpg/300x300bb.jpg",
+        "artist_name": "Black Panther",
+        "url": "",
+        "year": "1992"
+    },
+    {
         "album_name": "娱乐自己",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/18/3f/b6/183fb65a-6764-f6f0-d930-fa5517d5c2c9/4710616566604.jpg/300x300bb.jpg",
         "artist_name": "Hush",
@@ -2686,6 +2693,13 @@
         "artist_name": "David Tao",
         "url": "",
         "year": "1997"
+    },
+    {
+        "album_name": "黑色柳丁",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/05/7a/97/057a9723-2dbd-873b-81e0-5090879b2942/825646245352.jpg/300x300bb.jpg",
+        "artist_name": "David Tao",
+        "url": "",
+        "year": "2002"
     },
     {
         "album_name": "丑奴儿",
