@@ -1,5 +1,12 @@
 [
     {
+        "album_name": "Solo Collection",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/55/c3/3c55c31e-a17b-cf94-f2bd-c1d2cb2c1287/00008811122720.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Glenn Frey",
+        "url": "",
+        "year": "1995"
+    },
+    {
         "album_name": "Swing Patrol",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ef/9e/b7/ef9eb78c-08c3-a10c-ff87-28b033f96ccb/4260225980327.png/300x300bb.jpg",
         "artist_name": "Tape Five",
@@ -1575,13 +1582,6 @@
         "year": "1996"
     },
     {
-        "album_name": "黑.白.灰",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/bc/f9/4b/bcf94bb9-64c8-82f5-782c-e8154bb545b6/EEGT3018V1-_._._Eason_-.jpg/300x300bb.jpg",
-        "artist_name": "Eason Chan",
-        "url": "",
-        "year": "2003"
-    },
-    {
         "album_name": "The Return of the Space Cowboy",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/46/fe/5946fea2-8302-3c81-de71-d090376c99da/886443385863.jpg/300x300bb.jpg",
         "artist_name": "Jamiroquai",
@@ -2653,13 +2653,6 @@
         "year": "2022"
     },
     {
-        "album_name": "黑豹",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/d3/0a/d3/d30ad392-142d-2d60-f721-16028ae68ebb/dj.lmoukelr.jpg/300x300bb.jpg",
-        "artist_name": "Black Panther",
-        "url": "",
-        "year": "1992"
-    },
-    {
         "album_name": "娱乐自己",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/18/3f/b6/183fb65a-6764-f6f0-d930-fa5517d5c2c9/4710616566604.jpg/300x300bb.jpg",
         "artist_name": "Hush",
@@ -2693,13 +2686,6 @@
         "artist_name": "David Tao",
         "url": "",
         "year": "1997"
-    },
-    {
-        "album_name": "黑色柳丁",
-        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/05/7a/97/057a9723-2dbd-873b-81e0-5090879b2942/825646245352.jpg/300x300bb.jpg",
-        "artist_name": "David Tao",
-        "url": "",
-        "year": "2002"
     },
     {
         "album_name": "丑奴儿",
