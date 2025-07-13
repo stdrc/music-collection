@@ -1,5 +1,12 @@
 [
     {
+        "album_name": "No Fun Aloud",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/6c/bb/966cbb30-0582-7d90-b49e-1fd899374606/603497880225.jpg/300x300bb.jpg",
+        "artist_name": "Glenn Frey",
+        "url": "",
+        "year": "1982"
+    },
+    {
         "album_name": "Solo Collection",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/55/c3/3c55c31e-a17b-cf94-f2bd-c1d2cb2c1287/00008811122720.rgb.jpg/300x300bb.jpg",
         "artist_name": "Glenn Frey",
