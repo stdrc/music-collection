@@ -7,6 +7,13 @@
         "year": "1973"
     },
     {
+        "album_name": "顺风顺水顺财神",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/5b/82/c25b8204-3940-27c2-585f-3bb2dc5b029a/a1712934880306.jpg/300x300bb.jpg",
+        "artist_name": "揽佬SKAI ISYOURGOD",
+        "url": "",
+        "year": "2023"
+    },
+    {
         "album_name": "八方来财",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/32/3b/95323b31-1bdd-9bcc-8a6b-329a8d97ec03/749085368376.jpg/300x300bb.jpg",
         "artist_name": "SKAI ISYOURGOD",
@@ -1400,6 +1407,13 @@
         "year": "1999"
     },
     {
+        "album_name": "飞行器的执行周期",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/55/95/4b5595a2-5d2c-38c7-8179-0a27e5ba58a1/00602488600859.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Guo Ding",
+        "url": "",
+        "year": "2016"
+    },
+    {
         "album_name": "CiCi",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/f1/f3/9bf1f34e-2cff-e926-2048-61210ea142c4/617513692020.jpg/300x300bb.jpg",
         "artist_name": "Ciara",
@@ -1594,6 +1608,13 @@
         "artist_name": "Maxwell",
         "url": "",
         "year": "1996"
+    },
+    {
+        "album_name": "黑.白.灰",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/bc/f9/4b/bcf94bb9-64c8-82f5-782c-e8154bb545b6/EEGT3018V1-_._._Eason_-.jpg/300x300bb.jpg",
+        "artist_name": "Eason Chan",
+        "url": "",
+        "year": "2003"
     },
     {
         "album_name": "The Return of the Space Cowboy",
@@ -2660,6 +2681,13 @@
         "year": "2022"
     },
     {
+        "album_name": "黑豹",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/d3/0a/d3/d30ad392-142d-2d60-f721-16028ae68ebb/dj.lmoukelr.jpg/300x300bb.jpg",
+        "artist_name": "Black Panther",
+        "url": "",
+        "year": "1992"
+    },
+    {
         "album_name": "娱乐自己",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/18/3f/b6/183fb65a-6764-f6f0-d930-fa5517d5c2c9/4710616566604.jpg/300x300bb.jpg",
         "artist_name": "Hush",
@@ -2681,11 +2709,25 @@
         "year": "2020"
     },
     {
+        "album_name": "马拉美的星期二",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/34/c8/4e34c85d-f58f-65db-c6d0-635eafcdad67/22UMGIM86160.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Qing Feng Wu",
+        "url": "",
+        "year": "2022"
+    },
+    {
         "album_name": "陶喆同名专辑",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/bb/bd/ddbbbda1-9408-72b2-4c0b-943e648be6c1/190295574086.jpg/300x300bb.jpg",
         "artist_name": "David Tao",
         "url": "",
         "year": "1997"
+    },
+    {
+        "album_name": "黑色柳丁",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/05/7a/97/057a9723-2dbd-873b-81e0-5090879b2942/825646245352.jpg/300x300bb.jpg",
+        "artist_name": "David Tao",
+        "url": "",
+        "year": "2002"
     },
     {
         "album_name": "丑奴儿",
