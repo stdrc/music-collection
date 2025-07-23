@@ -1,5 +1,12 @@
 [
     {
+        "album_name": "Boomerang",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/af/af/58/afaf587b-4054-ccee-c6de-94251d79023a/4710149706164_cover.jpg/300x300bb.jpg",
+        "artist_name": "Shi Shi",
+        "url": "",
+        "year": "2023"
+    },
+    {
         "album_name": "The Dark Side of the Moon (50th Anniversary) [Remastered]",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/de/e1/22/dee122e8-c9b6-9d06-185b-9a665c5e5f52/196589805232.jpg/300x300bb.jpg",
         "artist_name": "Pink Floyd",
@@ -1391,6 +1398,13 @@
         "artist_name": "Lala Hsu",
         "url": "",
         "year": "2022"
+    },
+    {
+        "album_name": "Flow",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9d/75/b9/9d75b917-d598-cb90-6dc9-86b4699612a3/4711099733095.jpg/300x300bb.jpg",
+        "artist_name": "Naiwen Yang",
+        "url": "",
+        "year": "2023"
     },
     {
         "album_name": "Flow",
