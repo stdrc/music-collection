@@ -179,7 +179,6 @@
       overflow-x: auto;
       -webkit-overflow-scrolling: touch;
       padding-left: 20px;
-      padding-right: 20px;
       /* 隐藏滚动条 */
       scrollbar-width: none;
       /* Firefox */
@@ -196,7 +195,6 @@
     @media (min-width: 1040px) {
       .tabs-container {
         padding-left: calc((100vw - 1000px) / 2);
-        padding-right: calc((100vw - 1000px) / 2);
       }
     }
 
@@ -205,6 +203,14 @@
       gap: 8px;
       min-width: min-content;
       padding-bottom: 4px;
+      padding-right: 20px;
+    }
+
+    /* 在大屏幕上，让最后一个 tab 与 container 右侧对齐 */
+    @media (min-width: 1040px) {
+      .tabs {
+        padding-right: calc((100vw - 1000px) / 2);
+      }
     }
 
     .tab {
