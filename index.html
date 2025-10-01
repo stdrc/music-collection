@@ -166,12 +166,20 @@
     /* Tab 栏样式 */
     .tabs-container {
       margin-bottom: 32px;
-      margin-left: calc(-1 * max(0px, (100vw - 1000px) / 2));
-      margin-right: calc(-1 * max(0px, (100vw - 1000px) / 2));
+      /* 突破 container 限制，占据全宽 */
+      margin-left: -20px;
+      margin-right: -20px;
+      width: 100vw;
+      max-width: 100vw;
+      position: relative;
+      left: 50%;
+      right: 50%;
+      margin-left: -50vw;
+      margin-right: -50vw;
       overflow-x: auto;
       -webkit-overflow-scrolling: touch;
-      padding-left: max(20px, (100vw - 1000px) / 2);
-      padding-right: max(20px, (100vw - 1000px) / 2);
+      padding-left: 20px;
+      padding-right: 20px;
       /* 隐藏滚动条 */
       scrollbar-width: none;
       /* Firefox */
@@ -182,6 +190,14 @@
     .tabs-container::-webkit-scrollbar {
       display: none;
       /* Chrome, Safari, Opera */
+    }
+
+    /* 在大屏幕上对齐 container */
+    @media (min-width: 1040px) {
+      .tabs-container {
+        padding-left: calc((100vw - 1000px) / 2);
+        padding-right: calc((100vw - 1000px) / 2);
+      }
     }
 
     .tabs {
