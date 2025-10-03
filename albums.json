@@ -1,5 +1,13 @@
 [
     {
+        "album_name": "Aja",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c2/3c/54/c23c5414-20d1-7aea-f0f5-187974c58d65/23UMGIM79990.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Steely Dan",
+        "url": "",
+        "year": "1977",
+        "genres": "Rock"
+    },
+    {
         "album_name": "Controversy",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/bd/d6/17/mzi.sgmsiwad.jpg/300x300bb.jpg",
         "artist_name": "Prince",
