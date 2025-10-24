@@ -104,7 +104,7 @@
         "genres": "Pop"
     },
     {
-        "album_name": "This Love",
+        "album_name": "爱爱爱",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/c3/d0/e5/mzi.kdgffvqb.jpg/300x300bb.jpg",
         "artist_name": "Khalil Fong",
         "url": "",
@@ -292,8 +292,8 @@
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/eb/c1/2a/ebc12a2f-43a8-e4f7-08ab-c75c1cd778e7/06UMGIM67709.rgb.jpg/300x300bb.jpg",
         "artist_name": "Bee Gees",
         "url": "",
-        "year": "1978",
-        "genres": "Pop"
+        "year": "1979",
+        "genres": "Disco"
     },
     {
         "album_name": "Led Zeppelin IV (Remastered)",
@@ -344,7 +344,7 @@
         "genres": "Pop"
     },
     {
-        "album_name": "是時候",
+        "album_name": "是时候",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b6/45/aa/b645aaff-ed1e-71f3-a117-dc2373bfa37f/00602488893596.rgb.jpg/300x300bb.jpg",
         "artist_name": "Yanzi Sun",
         "url": "",
@@ -576,7 +576,7 @@
         "genres": "Hard Rock"
     },
     {
-        "album_name": "Goodbye Yellow Brick Road",
+        "album_name": "Goodbye Yellow Brick Road (2014 Remaster)",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b3/60/b6/b360b655-4d28-179d-d0d4-4e128ebdf4c9/13UAEIM19273.rgb.jpg/300x300bb.jpg",
         "artist_name": "Elton John",
         "url": "",
@@ -1880,7 +1880,7 @@
         "genres": "Chinese Hip-Hop"
     },
     {
-        "album_name": "The Final: 14 Greatest Hits",
+        "album_name": "The Final: 14 Greatest Hits (Deluxe Bonus Videos Edition)",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bc/28/31/bc2831e9-2646-098a-96c4-adc2e2c901bb/dj.tefnkxmm.jpg/300x300bb.jpg",
         "artist_name": "Wham!",
         "url": "",
@@ -1960,7 +1960,7 @@
         "genres": "Mandopop"
     },
     {
-        "album_name": "叶惠美",
+        "album_name": "Yeh, Hwei-Mei",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/47/86/8c47862d-e254-8b49-30cf-d1f05ebba05b/23UM1IM56855.rgb.jpg/300x300bb.jpg",
         "artist_name": "Jay Chou",
         "url": "",
@@ -2032,6 +2032,14 @@
         "genres": "Rock"
     },
     {
+        "album_name": "陶喆同名专辑",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/bb/bd/ddbbbda1-9408-72b2-4c0b-943e648be6c1/190295574086.jpg/300x300bb.jpg",
+        "artist_name": "David Tao",
+        "url": "",
+        "year": "1997",
+        "genres": "Mandopop"
+    },
+    {
         "album_name": "Straight Outta Compton",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4c/b1/32/4cb13290-7d01-1949-57e9-a8a1874e60a2/19UMGIM79184.rgb.jpg/300x300bb.jpg",
         "artist_name": "N.W.A",
@@ -2048,7 +2056,7 @@
         "genres": "Alternative"
     },
     {
-        "album_name": "Saturday Night Fever (The Original Movie Soundtrack)",
+        "album_name": "Saturday Night Fever (The Original Movie Soundtrack) [Deluxe Edition]",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/45/db/1d/45db1dac-fe00-3681-b216-266deea6e4cc/17UM1IM26789.rgb.jpg/300x300bb.jpg",
         "artist_name": "Various Artists",
         "url": "",
@@ -3720,7 +3728,7 @@
         "genres": "Mandopop"
     },
     {
-        "album_name": "陶喆同名专辑",
+        "album_name": "David Tao",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/bb/bd/ddbbbda1-9408-72b2-4c0b-943e648be6c1/190295574086.jpg/300x300bb.jpg",
         "artist_name": "David Tao",
         "url": "",
