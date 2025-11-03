@@ -1,5 +1,21 @@
 [
     {
+        "album_name": "爱慕",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/54/17/1f/54171ff9-4f2c-f662-933c-6cabd3e34bb4/dj.uxpnzpjp.jpg/300x300bb.jpg",
+        "artist_name": "Leslie Cheung",
+        "url": "",
+        "year": "1987",
+        "genres": "Pop"
+    },
+    {
+        "album_name": "走过 1999",
+        "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e9/b9/2c/e9b92cb3-7d1b-a673-119e-d23ebb518273/00731454328722.rgb.jpg/300x300bb.jpg",
+        "artist_name": "Jacky Cheung",
+        "url": "",
+        "year": "1999",
+        "genres": "Mandopop"
+    },
+    {
         "album_name": "王菲97",
         "album_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6f/75/54/6f75544f-1d55-b5d1-40e2-1c2fde6e0925/1997.jpg/300x300bb.jpg",
         "artist_name": "Faye Wong",
